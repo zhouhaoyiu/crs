@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2505313 */
+  src: url("//at.alicdn.com/t/font_2505313_t2ten2o8uca.woff2?t=1620382975609")
+      format("woff2"),
+    url("//at.alicdn.com/t/font_2505313_t2ten2o8uca.woff?t=1620382975609")
+      format("woff"),
+    url("//at.alicdn.com/t/font_2505313_t2ten2o8uca.ttf?t=1620382975609")
+      format("truetype");
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/* 回到顶部按钮 */
+.icon-backTop:before {
+  content: "\e619";
+}
+
+.icon-daosanjiao:before {
+  content: "\e665";
+}

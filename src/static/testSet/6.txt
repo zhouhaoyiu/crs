@@ -1,0 +1,2909 @@
+﻿The Project Gutenberg EBook of Texas in the Civil War, by Allan C. Ashcroft
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: Texas in the Civil War
+       A Resume History
+
+Author: Allan C. Ashcroft
+
+Release Date: March 9, 2018 [EBook #56709]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK TEXAS IN THE CIVIL WAR ***
+
+
+
+
+Produced by Stephen Hutcheson and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+                        TEXAS IN THE CIVIL WAR:
+                            A RÉSUMÉ HISTORY
+
+
+                       Allan C. Ashcraft, Ph. D.
+                     Assistant Professor of History
+            The Agricultural and Mechanical College of Texas
+
+                          A Publication of the
+                 Texas Civil War Centennial Commission
+                             Austin, Texas
+                             January, 1962
+
+
+                 TEXAS CIVIL WAR CENTENNIAL COMMISSION
+                          112 East 18th Street
+                             Austin, Texas
+
+                    Walter E. Long, Austin, Chairman
+              Rupert N. Richardson, Abilene, Vice Chairman
+            Mrs. C. C. Cameron, Austin, Second Vice Chairman
+
+               A. Garland Adair           _Austin_
+               Mrs. John M. Bennett, Jr.  _San Antonio_
+               Lincoln Borglum            _Beeville_
+               Mrs. Mike Butler           _Austin_
+               Millard Cope               _Marshall_
+               Joe Cruze                  _Driftwood_
+               J. A. Dodd                 _Kingsville_
+               Mrs. L. E. Dudley          _Abilene_
+               John T. Duncan             _Bryan_
+               Mrs. R. R. Farmer, Jr.     _West Columbia_
+               Mrs. L. J. Gittinger       _San Antonio_
+               H. A. Hooks                _Kountze_
+               Jess Irwin, Jr.            _Austin_
+               Burris C. Jackson          _Hillsboro_
+               Ray Kirkpatrick            _Austin_
+               Sam Lanham                 _Waco_
+               Mary Lubbock Lasswell      _Austin_
+               F. Lee Lawrence            _Tyler_
+               Walter Malec               _Hallettsville_
+               Stuart McGregor            _Dallas_
+               Tom B. Medders             _Wichita Falls_
+               I. C. Parma                _Granger_
+               Cooper K. Ragan            _Houston_
+               Mrs. Edward Randall, Jr.   _Galveston_
+               Joe H. Reynolds            _Houston_
+               John Ben Shepperd          _Odessa_
+               Harold B. Simpson          _Waco_
+               Mrs. H. M. Stamper         _Houston_
+               Heyl G. Tebo               _Houston_
+               Charles R. Tips            _Dallas_
+               Frank E. Tritico           _Houston_
+               Mrs. Max Weinert           _Seguin_
+               Robert C. Wells            _Kingsville_
+               James E. Wheat             _Woodville_
+               R. T. Wilkinson            _Mount Vernon_
+               Mrs. Dan Lester            _Jefferson_
+
+                 George W. Hill    _Executive Director_
+
+                         PUBLICATIONS COMMITTEE
+
+                              Millard Cope
+                             John T. Duncan
+                            Cooper K. Ragan
+                            F. Lee Lawrence
+                           John Ben Shepperd
+
+    [Illustration: ★ TEXAS ★ CIVIL WAR CENTENNIAL COMMISSION]
+
+
+
+
+                                FOREWORD
+
+
+The Texas Civil War Centennial Commission has long felt the need for a
+booklet setting forth a brief history of Texas’ participation in the
+Civil War and the Confederacy. Many requests for such a publication have
+come from schools, organizations and individuals.
+
+We are proud to present “Texas in the Civil War” and feel that it will
+lead to an understanding of the true story of this period of Texas
+history.
+
+We are especially indebted to Dr. Allan C. Ashcraft, who prepared “Texas
+in the Civil War” at no cost to our Commission. Mr. James Wilkins of
+Tyler contributed the art work. A chronology appears on page 45 and was
+prepared by the Committee on Chronology. Professor John T. Duncan of the
+Agricultural and Mechanical College of Texas served as chairman.
+
+This publication is dedicated as a memorial to all Texans who served in
+the Armed Forces of the Confederate States of America.
+
+                             Walter E. Long
+                                Chairman
+
+
+                          Publications of the
+                 TEXAS CIVIL WAR CENTENNIAL COMMISSION
+
+  _Texas Civil War Centennial Program_
+  _Texas in the Civil War: A Resume History_
+  _Texas at Vicksburg_ published, jointly by the _Texas Civil War
+          Centennial Commission_ and _Texas Historical Survey Committee_
+
+           PRINTED BY WEST TEXAS OFFICE SUPPLY, ODESSA, TEXAS
+
+
+
+
+                                CONTENTS
+
+
+  FOREWORD                                                              3
+  TEXAS IN THE CIVIL WAR: A RÉSUMÉ HISTORY                              5
+      TEXAS IN 1860                                                     7
+      POLITICS, SECESSION, AND WAR                                      7
+      MOBILIZATION: EVENTS OF 1861                                     10
+      CAMPAIGNING: 1862                                                12
+      TEXAS UNITS FIGHTING ELSEWHERE: 1861-1863                        15
+      ISOLATION OF THE SOUTHWEST: 1863                                 19
+      BEGINNING OF THE END: 1864                                       22
+      FIGHTING BEYOND TEXAS: 1863-1865                                 25
+      THE BREAK-UP: 1865                                               28
+  NOTES                                                                31
+  BIBLIOGRAPHY                                                         38
+      MANUSCRIPTS                                                      38
+      REPRODUCED COPIES OF MANUSCRIPTS                                 38
+      PUBLIC DOCUMENTS                                                 39
+      OTHER PRIMARY SOURCES                                            39
+      SECONDARY SOURCES                                                39
+      NEWSPAPERS                                                       40
+      ARTICLES                                                         41
+  CHRONOLOGY                                                           43
+      EVENTS IN TEXAS, 1861-1865                                       45
+
+
+
+
+                        TEXAS IN THE CIVIL WAR:
+                            A RÉSUMÉ HISTORY
+
+
+                             TEXAS IN 1860
+
+Texas in 1860 was an area where the Old South faded into what was to
+become the new West. The state was a partially settled land of contrasts
+surrounded by enemies on all but the Louisiana side.[1] This one
+friendly boundary was a powerful tie that linked Texas both physically
+and psychologically with its Southern parent lands.
+
+Because the state was in an early phase of settlement, the population of
+420,891 white persons included a great majority of people who had been
+born in other states or in foreign countries. Barely one-third of the
+whites had been born in Texas, while over ten percent of them were
+originally from countries other than the United States. Most of the
+settlers from other states were from the South.[2] Thus far these hardy
+individuals had organized counties along the entire length of the Rio
+Grande and, elsewhere, as far west as the 100th meridian frontier line.
+
+Within the main settled portion could be found several distinctive
+agricultural regions. The principal center of the cotton plantation
+system was in a cluster of a half-dozen counties that touched the coast
+in Matagorda and Brazoria counties, and included the best soil in the
+Gulf Plains. Much cotton was also raised in the Brazos, Colorado, and
+Trinity river bottoms. Most of the state’s Negro population (182,566
+slaves and 355 free Negroes) lived in the vicinity of these heavy cotton
+producing counties. To the north and east of the plantation centers was
+an area of agricultural diversity. Cotton was raised as a “cash crop”,
+while grains and vegetables were grown for local consumption. Northwest
+and west of the cotton lands was a subsistence agricultural belt that
+extended to the frontier. Here, strong men fought marauding Indians and
+contended with periodic drought in an effort to make a meager living for
+their families. Finally, to the southwest of the plantations was cattle
+country, where almost four million unmarketable beeves roamed the open
+ranges from the San Antonio River to the Rio Grande.
+
+The agrarian nature of 1860 Texas is well reflected in the fact that
+less than five percent of the population lived in urban areas. There
+were fifty-two incorporated towns (settlements of over 1,000), of which
+only San Antonio and Galveston exceeded the 5,000 mark. Other points of
+minor population concentration were scattered villages and a score of
+Federal military forts that were situated along the Rio Grande and near
+the frontier line.[3]
+
+
+                      POLITICS, SECESSION, AND WAR
+
+In state politics Texas was divided between a loosely organized
+Democratic Party and the followers of Sam Houston. Houston’s strong
+anti-sectional views cost him the gubernatorial election in 1857. Two
+years later, however, the aging hero of San Jacinto capitalized on a
+general reaction against sectional extremists and was elected governor
+on a nationalist platform. When Abraham Lincoln won the Republican
+presidential nomination in 1860, Governor Houston urged his fellow
+Texans to keep cool heads and to avoid taking drastic steps that might
+later be regretted.[4]
+
+In the national election of November, 1860, the voters of the Lone Star
+State cast a three to one majority for John C. Breckinridge (Southern
+Democrat) over John Bell (standard bearer of the conservative
+Constitutional Union Party.) The names of Lincoln and Stephen A. Douglas
+(Northern Democrat) did not appear on Texas ballots. When it was learned
+that the Republican candidate had won the presidency, Texans, like other
+Southerners, went into mourning and many replaced United States flags
+with state banners. Then, when other states of the South called for
+secession conventions, Texans demanded that the same action be taken in
+their state.[5]
+
+Governor Houston managed to block all secession calls until December,
+when Attorney General George M. Flournoy, Associate Justice O. M.
+Roberts of the State Supreme Court, and lawyer William P. Rogers and
+John S. Ford took the lead in calling for a state-wide election of
+secession convention delegates to meet in Austin on January 28, 1861. A
+subsequent statement explaining this move cited a Texas Constitutional
+provision that the people “have at all times the unalienable right to
+alter, reform, or abolish their form of government” as a source of
+authority for the convention call.[6] It was also at this time that the
+voters of Texas were promised a popular referendum on the secession
+assembly’s work; and of the original seven Confederate states, Texas was
+the only one to hold such an election on the question of secession.
+Seventy-two prominent citizens, including Lieutenant Governor Edward
+Clark, signed this second call.
+
+As provisions for the forthcoming election of delegates were being made,
+Sam Houston called for a special session of the legislature to meet on
+January 21. The Governor desperately hoped to use the legislative body
+to neutralize the work of the convention. But this remote possibility
+was stifled when the House and the Senate promptly adopted an
+anti-Houston attitude and enthusiastically welcomed the assembling
+convention.[7]
+
+On Monday. January 28, 1861, the secession delegates organized under the
+presidency of Judge O. M. Roberts. As late comers kept arriving, the
+body eventually came to number one hundred seventy-six members. Elected
+from state legislative districts, the delegates were mainly lawyers,
+planters, and farmers.[8] In short order a heavy majority approved a
+resolution to withdraw Texas from the Union, and an Ordinance of
+Secession was passed by a vote of 166 to 7. This ordinance basically
+charged that the United States government had failed to meet its
+responsibilities under the “compact of Union.” Specifically, it was
+asserted that Federal authority had neglected to give “protection either
+to the persons of our people upon an exposed frontier, or to the
+property of our citizens.” The document also condemned the Northern
+states for attempting to make the central government into “a weapon with
+which to strike down the interests and prosperity of the people of Texas
+and her Sister Slaveholding States.” Therefore, concluded the Ordinance,
+the people of Texas chose to withdraw from the Union and to reclaim all
+sovereignty delegated to the Federal government when Texas joined the
+United States.[9]
+
+The convention established a Committee of Public Safety to oversee
+security matters while the main delegation recessed to await popular
+approval of secession. Just before being disbanded until March 2, the
+Austin assembly named seven representatives[10] to the Montgomery,
+Alabama, convention of the seceding states. These men were to journey to
+Alabama where they would speak for Texas in the forming of the new
+Confederate government.[11] With his hand thus forced, Governor Houston
+ordered an election to be held on February 23 to determine whether or
+not the Secession Convention’s work would be approved by the people.[12]
+
+Shortly before this election was held, the Committee of Public Safety
+decided that for purposes of state security the almost 3,000 Federal
+soldiers stationed in Texas must be surrendered. This delicate matter
+was settled on February 15, when the followers of Colonel Ben McCulloch
+suddenly surrounded military departmental headquarters in San Antonio.
+McCulloch’s strong show of force was sufficient to cause the bloodless
+surrender of Brevet Major General David E. Twiggs—aged commander of all
+United States forces in the state. According to the terms of his
+capitulation, Twiggs was to evacuate his soldiers and turn over all
+station property to the state.[13]
+
+A week later in the midst of fiery editorials and heated discussions.
+the mandate on secession was held and county results were forwarded to
+Austin. On March 2, the anniversary of Texas independence, the Secession
+Convention re-assembled to canvass the result of the election. Because a
+quorum was lacking, however, this task had to be postponed until Monday,
+March 4.[14] Of the one hundred twenty-two counties reporting, only
+nineteen, located mainly in northern Texas or along the middle of the
+frontier line, showed a preference to stay with the Union. In overall
+figures, secession was endorsed by a vote of 46,129 to 14,697. When
+these results were certified to the convention. President Roberts
+proclaimed Texas to be “a free, sovereign and independent nation of the
+earth.”[15] Later that same day a disgruntled Governor Houston
+officially admitted to his people that a large majority had favored
+secession.
+
+The convention next considered the complex problem of defending Texas,
+and at the same time, rushed instructions to the Texas delegation in
+Montgomery, Alabama, to secure admission of the state to the
+Confederacy. Sam Houston, when he learned of these actions, charged that
+the convention was completely overstepping its authority. To counter
+such protests, the determined secession delegates developed a plan that
+would ultimately cause Houston to remove himself from office. A
+resolution was passed requiring all high state officials to swear
+allegiance to the Confederacy at noon on March 16. When Houston failed
+to appear at the oath-taking ceremony, the convention declared his
+office to be vacant. Pro-secessionist Lieutenant Governor Edward Clark
+assumed the gubernatorial position for the nine months remaining in
+Houston’s term. Finally, with its work accomplished, the Texas Secession
+Convention adjourned _sine die_ on March 26.[16]
+
+Meanwhile, the Confederate States government had been organized and
+Judge John H. Reagan of Texas was named Postmaster General. In late
+April news reached Texas that Fort Sumter had been fired on. With war
+between the sections now a reality, Governor Clark promptly set about
+gearing the state for military action. Measures were taken to capture as
+prisoners of war all federal troops who had been surrendered by General
+Twiggs and who were still in the process of leaving the state.[17] Also,
+the Governor asked for 3,000 volunteers to supplement several existing
+regiments that had been called into service by the Secession Convention.
+Later in April, Clark called for an additional 8,000 volunteer
+infantrymen to serve the South.[18]
+
+Not all Texans were confident that the state had been wise in seceding
+and in joining the Confederacy. German settlers in the San
+Antonio-Fredericksburg-New Braunfels areas were especially disturbed
+over the turn of events. They had never accepted the idea of slavery and
+they now came to be looked on with distrust when some of their numbers
+elected to leave the state. A group of North Texans similarly decided to
+abandon their homes for the security of the United States. Still other
+malcontents, who wished to escape from the Confederate government or the
+dangers of war, moved to the Far West or across the Mexican border.[19]
+
+
+                      MOBILIZATION: EVENTS OF 1861
+
+Throughout 1861 Governor Clark issued calls for more troops and worked
+to bolster state defenses. By September Texas had ten regiments in
+Confederate service or in the process of being organized. Several of
+these units were in Virginia, while the rest were standing by to secure
+the state from possible invasion.[20]
+
+The forming of companies was seldom a smooth procedure. For one thing,
+all Texans wanted to fight on horseback, but the Confederate army
+already had sufficient cavalrymen and now needed only foot soldiers.
+Also, the Southern leaders wanted men to serve for the war’s duration,
+but most volunteers were reluctant to sign up for more than twelve
+months. While these requirements tended to make young men feel less
+enthusiastic about serving their country, the state government was
+seriously hampered in its recruiting operations by an over-anxious
+Confederate War Department. Richmond kept sending heavy troop levies to
+the Governor while also authorizing private persons to carry out their
+own recruiting programs. This resulted in serious recruiting competition
+between the state and the Confederate officers. In several cases units
+ear-marked to meet state troop requirements were marched away by
+“recruiting colonels.” Despite Governor Clark’s protest, this problem
+continued to exist for many months.[21]
+
+A typical example of the mechanics of forming a unit took place at
+Marshall in April, 1861, when organization of the W. P. Lane Ranger
+Company was announced. Volunteers were expected to supply their own
+mounts while the state agreed to furnish arms. On the appointed day the
+young men were massed in the center of the town, had their horses
+examined for serviceability, elected their officers, and were given an
+oath of allegiance to Texas by a local judge. The rest of the day was
+spent in preparing the unit’s roll of members and in attending a special
+church service. The next morning saw the company reassembled in the town
+square, awaiting the presentation of a flag that had been made by the
+young ladies of Marshall. After a long and flowery presentation speech,
+the banner, reported to have measured six by fifteen feet, was accepted
+by the unit. Then, at noon, amidst tears and kisses, the company took up
+the march to its destiny. A few miles down the road, however, destiny
+was delayed while the men were feasted at a local college. By dusk the
+badly scattered soldiers straggled to a camping site and dined on
+delicacies that had been brought from home. The Rangers were feted,
+lauded, and blessed in almost every town through which they passed. Late
+in May they arrived in San Antonio where they were armed, mustered into
+Confederate service as Company “F” of the Second Texas Mounted Rifles,
+and assigned to patrol duty on the state’s frontier.[22]
+
+As more regiments were formed, a growing scarcity of firearms caused
+grave concern. A few units solved this difficulty by demanding that the
+enlistees secure weapons on their own initiative. By using this system
+Captain Strobel’s Company of Terry’s Texas Rangers could boast that each
+of its men carried a double barrel shotgun, a six-shooter, and an issued
+“Texas tooth-pick.” This last item was described as a “two edged pointed
+knife, 24 inches long, and weighing about three pounds, and a man using
+it could cut another man’s head off and not half try.” Most companies,
+however, relied on the state to furnish arms. By summer, 1861, Texas had
+issued almost all of the weapons that it owned.[23]
+
+Because of the increasing scarcity of guns, Governor Clark adopted a
+policy of keeping the remaining state-owned weapons within the confines
+of Texas. Future troops mustered into Confederate service would have to
+draw arms from the Richmond government. Clark also sent agents to
+Mexico, Cuba, and Europe in a near fruitless effort to make contracts
+for the purchase of foreign guns. The state likewise encouraged the
+establishment of local arms factories and powder plants.[24] Such things
+as military clothing, blankets, and messing equipment would have to come
+from the penitentiary cloth mills at Huntsville, from private donations
+through county soldiers’ relief agencies, through trade with Mexico, or
+from Confederate supply depots.[25]
+
+By fall, 1861, the security of Texas was being jeopardized by Indian
+depredations along the frontier, by danger of invasions from the north
+or by way of the coast, and by the possibility of violence along the
+Mexican border. Repeated dispatches received in Austin reported fierce
+Indian raids centering in the Brown-Gillespie County area. Also, rumors
+had it that the Union was preparing a force in Missouri that would
+momentarily undertake an invasion into Texas. Proof of the United States
+forces having overrun Missouri was seen when pro-secessionist Governor
+C. F. Jackson and Lieutenant Governor T. C. Reynolds arrived with the
+Seal of the State of Missouri and set up a temporary government at
+Marshall, Texas. Governor Clark took so seriously the threat of a Union
+thrust into Texas that he expressed his concern to President Jefferson
+Davis and declared that his state stood ready to assemble 4,000
+cavalrymen if it became necessary to block such a move on the part of
+the enemy. In the same letter to Richmond, Clark indicated a fear that
+West Texas might be faced with a Union column coming through New Mexico.
+To defend this approach and to safeguard the frontier from further
+Indian raids, legislative approval was secured to organize a Frontier
+Regiment of ten companies.[26]
+
+Texans were likewise fearful of invasions or raids along the coastline,
+which could be discouraged by building fortifications and by stationing
+garrisons at such key points as Sabine Pass, Pass Cavallo (in Matagorda
+County). Port Aransas, and Galveston.[27] Continuous Union naval
+activity off Galveston caused that island to be regarded as a critical
+invasion objective. In fact, so serious was this threat that emergency
+plans were prepared for a quick evacuation of the city and possible
+destruction of the railroad bridge that linked the island with the
+mainland.[28]
+
+As Union craft tightened the blockade of Texas port towns, the main
+unblocked trade route from Texas to the outside world came to be the
+overland trail from San Antonio to Matamoros. This Mexican town
+contained a number of merchant houses that were willing to exchange
+valuable Texas cotton for goods needed by the South. To safeguard this
+supply route, to control border violence, and to intercept shirkers and
+Unionists attempting to cross the Rio Grande, Texas kept a number of
+state troops on patrol duty along the international river.[29]
+
+In spite of these manifold dangers and wartime conditions, Texas
+politics continued as usual. In November, 1861, an exciting contest
+allowed Francis R. Lubbock to replace Edward Clark as governor. Lubbock
+had wide political experience in the Lone Star State and, once assured
+of his narrow victory, he made a quick trip to Richmond to consult with
+principal Confederate leaders.[30]
+
+
+                           CAMPAIGNING: 1862
+
+Throughout the early mobilization period Texans were anxiously observing
+the invasion of New Mexico by Lieutenant Colonel John R. Baylor and
+three hundred men of the Second Texas Rifles. As the summer of 1861
+passed, the Baylor force pushed scattered Federal defenders northward
+along the upper Rio Grande.[31] Despite this early success, the Texas
+commander made it clear to leaders of the South that he would need many
+more soldiers to hold these gains. Southern control of the Arizona-New
+Mexico territory would increase the Confederate land area, it would give
+the new government access to rich minerals and poorly guarded Union
+supply dumps, it would secure western Texas from invasion, and it would
+give the South ownership of the Old Santa Fe Trail gateway to the Far
+West.[32]
+
+To strengthen Baylor’s position, Brigadier General Henry H. Sibley
+organized three regiments in San Antonio and proceeded to Fort Bliss in
+December, 1861. In the meanwhile, a deeply concerned Union War
+Department rushed forces from California and Colorado to bolster sagging
+Federal defenses in upper New Mexico. Sibley cut his way to Albuquerque
+and Santa Fe before these Union relief columns could arrive on the
+scene. During the battle at Apache Canyon, a United States detachment
+destroyed the Confederates’ supply train. This disaster plus the
+intelligence the Federal relief columns were converging on him from two
+directions caused Sibley to order a withdrawal to southern New
+Mexico.[33]
+
+This retreat quickly degenerated into a rout, however, as the sick,
+hungry, and hard-pressed Texans straggled towards El Paso. In all,
+General Sibley lost over half of his 3,000 men in the withdrawal that
+ended only after the Union had seized the western tip of Texas. The
+United States kept patrols and small garrisons in the Davis Mountain
+region of the state and in El Paso throughout the remaining years of the
+war.[34]
+
+Union successes in Arkansas in March of 1862 again reminded Texans of
+the dangers they faced from invasions through that state. The Federal
+victory at Pea Ridge, where Confederate Brigadier General Ben McCulloch
+of Texas was killed, opened the way for United States troops to advance
+on Fayetteville.
+
+To neutralize this threat, Governor Lubbock had several state regiments
+shifted to Tyler where they could act as guard forces to blunt Union
+thrusts.[35] Yet, as this precaution was being taken, the sudden fall of
+New Orleans and ever increasing United States naval activities in the
+Gulf caused Texans again to cast anxious eyes on their vulnerable
+coastline. In May, Galveston was partially abandoned under the threat of
+Union gunboat bombardment that never materialized.[36] Several months
+later Corpus Christi withstood a four day shelling by three Federal
+ships.[37]
+
+October saw an overpowering flotilla of eight enemy craft secure the
+surrender of Galveston Island. With the loss of Galveston, Governor
+Lubbock sealed off the entire bay area and called for 5,000 volunteers
+to defend the main coastline. In issuing this call, Lubbock declared
+that “The crisis of the war seems to be at hand in Texas, and we must
+prepare to defend our homes, or be driven from them with insult and
+degradation, and all the horrors of rapine and violence.”[38]
+
+Some five hundred Massachusetts soldiers occupied Galveston while Union
+Major General N. P. Banks ordered several strong regiments to be
+transferred from Louisiana to this Texas toe-hold.[39] Before these
+reinforcements could embark for Galveston, however, Major General John
+B. Magruder, recently named commander of the Confederate Military
+District of Texas, instituted a lightening stroke to regain the island
+for the South. He called for volunteers from Sibley’s veterans and a
+number of militia companies to mass at Virginia Point. Then in the early
+hours of January 1, 1863, two converted gunboats, the _Neptune_ and the
+_Bayou City_, attacked the United States fleet while Magruder, whose men
+had crept across the railroad bridge, attacked the Galveston wharves.
+Within a matter of minutes the attack ended in marked success. The
+Texans took three Federal ships and over three hundred and fifty
+prisoners. Galveston was once more under the Stars and Bars.[40]
+
+In various actions during the first two years of the war, Texans took a
+number of prisoners of war. These men had to be held in custody until
+arrangements could be made for their exchange. Some of the prisoners
+were kept in “prison canyon” near Camp Verde in Kerr County. There was a
+pit-like gully where Union soldiers were allowed to build shacks and to
+get adequate exercise with little risk of escape. At one time this crude
+system held six hundred inmates.[41]
+
+A much larger and better equipped prison was Camp Groce, near Hempstead.
+Prisoners were housed in four long rows of rough barracks that were
+described as “enclosed cowsheds.” Because of open country to the north
+and much military patrol activity to the south, few prisoners attempted
+to escape from Camp Groce.[42]
+
+The largest prison in the state was Camp Ford, four miles northeast of
+Tyler. Eventually it consisted of ten acres enclosed by a stockade of
+eighteen foot logs. Prisoners made dugout shelters on a hillside and
+roofed these “shebangs” with split logs. About 5,000 men were held in
+confinement there when the prison was operating at maximum capacity.[43]
+
+The Confederate Congress, in April of 1862, passed its first
+conscription act. Although Texas now had fifty-five regiments
+formed,[44] all able-bodied young men from eighteen to thirty-five (the
+age limits were later repeatedly raised) would henceforth be subject to
+the draft.[45] Indignation against this act caused many protests to be
+heard in areas that were unenthusiastic about the war. Strongest
+anti-conscription feeling centered in Gillespie County. In fact, the
+German settlers near Fredericksburg went so far as to form a five
+hundred man Union Loyal League to defy the draft and to promote
+sympathetic feelings for the United States. To suppress this subversive
+group, Dunn’s and Freer’s state militia companies took control of the
+town, declared martial law, and gave the citizens six days in which to
+take an oath of loyalty to the South. Most Germans peacefully complied
+with this requirement, a few troublemakers were arrested for a short
+time, and a small number of incorrigibles quietly fled to Mexico.[46]
+
+Occasionally pro-Union refugees would make their way to occupied New
+Orleans, where they could enlist in Judge E. J. Davis’ First Regiment of
+Texas United States Volunteers. As this unit grew in size, Texas
+officials came to fear that it might be used in the execution of raids
+on the state. One embittered Houston editor, in publishing the facts on
+Davis’ command, stated “let these refugee traitors set foot on the soil
+of Texas, whether as mounted or unmounted riflemen, and their blood will
+wash out their treason.... God grant that their carcasses may all enrich
+the soil their lives have cursed!”[47]
+
+As passive signs of disloyalty continued to exist, Confederate military
+and state civil officials decided to cope with Unionism in an
+overpowering fashion. In mid-1862 martial law was declared over the
+entire state. Every alien and all native white males over sixteen were
+to register and to answer the questions of county provost marshals.
+People were required to have passes to cross county lines. Severe
+punishments were set for those who attempted to depreciate Confederate
+currency. Finally, those suspected of disloyalty were to be expelled
+from their counties—presumably to settle in some other county and
+conform, or else, to be driven from county to county until they left the
+state. Unfortunately for the proponents of this stern policy, the
+martial law decree was not approved by Richmond. That fall President
+Jefferson Davis declared it to be an unwarranted assumption of power and
+revoked the entire program.[48]
+
+During the first two years of the war, the state government and the
+people at home diligently struggled to supply Texas regiments with the
+essentials of life. Prison made cloth, contributed items of clothing,
+and special county tax funds and bond sale receipts were forwarded to
+needy companies.[49] As for the care of the sick and wounded Texans, the
+financially embarrassed state passed heavy appropriations for the
+establishment and support of special hospitals for Texas casualties in
+various parts of the South.[50]
+
+
+               TEXAS UNITS FIGHTING ELSEWHERE: 1861-1863
+
+While the leaders of Texas were busily concerned with the well being of
+their own state, the men of Texas were actively serving the Confederate
+cause elsewhere. From the very outbreak of the conflict Texas units made
+proud names for themselves on all fighting fronts.
+
+The Lone Star State was represented in northern Virginia by three
+regiments in the brigade of John Bell Hood. This brigade was formed at
+Dumfries, Virginia, in September of 1861, and consisted mainly of the
+First Texas Infantry, the Fourth Texas Infantry, and the Fifth Texas
+Infantry.[51] After intensive training first under L. T. Wigfall,[52]
+and then under Hood, the Texans were baptised in fire at Elthan’s
+Landing, Virginia, in May of 1862. Hood’s men had been ordered to
+protect the Confederate retreat route from Yorktown to Richmond.
+Suddenly, the Texans ran into a Union skirmish line of unknown strength
+near the York River. In a running fight, the Texas units chased the
+enemy for a mile and a half, taking forty prisoners. Hood, frequently
+apologetic in his reports, mentioned that the density of the forests had
+limited his movements to such a degree that he was unable to take more
+captives.[53]
+
+In June, Hood’s Brigade was attached to Jackson’s Corps. Particularly at
+Gaines’ Mill the unit showed promise of its future greatness. It overran
+fourteen Union artillery pieces and captured an entire enemy regiment.
+The cost of these gains was not light, however, as the Fourth Texas lost
+all of its field grade officers and the entire brigade had five hundred
+and seventy casualties. General Jackson, on later viewing the site of
+the Texans’ triumph, declared “the men who carried this position were
+soldiers indeed!”[54]
+
+The brigade’s next major action was at the Second Battle of the Manassas
+in the last days of August, 1862. On the 29th, the Texans engaged in a
+counter-attack that gained six Federal colors. An advance on the
+following morning cost the Union a mile and a half of ground and four
+artillery guns. Although Hood had been elevated to the command of a
+division, he could proudly claim that the Texans’ “gallantry and
+unflinching courage” were “unsurpassed within the history of the world.”
+In this great struggle the Fifth Texas lost seven color bearers.[55]
+
+Then, in September, the brigade gained even greater renown at Antietam.
+At one point the Texans and one other brigade were pitted against two
+full Union corps. Hood described the event as “the most terrible clash
+of arms, by far, that has occurred during the war. The two little giant
+brigades of this [Hood’s] division wrestled with this mighty force,
+losing hundreds of their gallant officers and men but driving the enemy
+from his position and forcing him to abandon his guns on our left.”[56]
+The division’s rear guard action saved the Confederates from near
+certain annihilation, but at the end of the Antietam campaign only a
+fraction of the command could still be classed as “effectives.” The
+Texas Brigade lost five hundred and sixty men out of eight hundred and
+fifty-four present for duty. The First Texas lost over eighty percent of
+its original two hundred and twenty-six members.[57]
+
+The next large scale action in which the brigade participated was at
+Gettysburg in July of 1863. During a series of attacks against Little
+Round Top Mountain, the men found that “as fast as we would break one
+line of the enemy, another fresh one would present itself, the enemy
+reinforcing his lines in our front from his reserves.”[58] The fighting
+became so heated that the First Texas ran out of ammunition and had to
+resort to emptying the cartridge boxes of fallen comrades and enemy
+dead. When darkness fell on July 2, members of the command piled rocks
+in front of themselves to protect their forward positions on the slope
+of the hill. The Texans continued to hold the right of Lee’s line
+throughout July 3, while Pickett’s great charge against the Union center
+was broken and the Southern army was bloodily repulsed. Over four
+hundred of Hood’s men were casualties in this great battle that marked
+“the high tide of the Confederacy.”[59]
+
+Elsewhere, in the great campaigning area of the
+Kentucky-Tennessee-Mississippi region, Texas regiments were likewise
+prominent in military campaigns of this first half of the war. At
+Shiloh, described by Grant as “the severest battle fought at the West
+during the war,”[60] Texas was represented by Terry’s Texas Rangers (the
+Eighth Texas Cavalry), the Second Texas Infantry, and the Ninth Texas
+Infantry. On April 6, 1862, the Rangers shielded the Confederate left by
+scouting and blocking enemy flanking sweeps. The next day they protected
+artillery positions and stood by to lead a counter-attack that never
+materialized.[61] On the opposite extremity of the gray line the Second
+Texas cut its way forward for two miles on the first day’s fighting. It
+captured an entire Union artillery battery and, in the vicinity of the
+Hornet’s Nest, it secured the surrender of Prentice’s Sixth Union
+Division. One-third of the members of the Second Texas were casualties
+by the time General P. G. T. Beauregard ordered a general retreat on
+April 7. Beauregard had assumed command of Confederate forces after the
+death of General Albert Sidney Johnston of Texas in the afternoon of the
+first day.[62] Meanwhile, for two days the Ninth Texas had spearheaded
+attacks of the Second Brigade, First Division, of Bragg’s Corps.[63]
+
+At Iuka, Mississippi, in September, 1862, Whitfield’s Texas Legion
+(twelve dismounted companies) and the Third Texas Cavalry (dismounted)
+captured a Union battery after a one hundred and fifty yard charge into
+the mouths of the guns. Then, as a Federal regiment sought to flank
+them, the Texans redressed their line in such a way as to force the new
+challengers back for several hundred yards. So close was this combat
+that a company officer of the legion killed the opposing regimental
+commander with a dragoon pistol. The Texas unit lost almost one-quarter
+of its men.
+
+One month later the Second Texas Infantry gained fame at Corinth,
+Mississippi. For two days their courageous commander, Colonel William P.
+Rogers, led charges against the enemy’s heaviest fortifications.
+Finally, Rogers managed to plant his regimental flag on the wall of the
+inner works. Seconds later, however, the Texans were forced to pull back
+before a Union counter-thrust. In the withdrawal Rogers escaped about
+twenty paces when his body was riddled by hostile fire. So brave had
+been this Southern leader that the United States forces gave his body a
+worthy funeral with full military honors. The Second Texas lost about
+half of its men in these two days.[64]
+
+In the December battle at Stone’s River (Murfreesboro), Tennessee, a
+number of Texas organizations were attached to Bragg’s army. Terry’s
+Texas Rangers, the Fifteenth Texas Cavalry, the Tenth Texas Cavalry, the
+Eleventh Texas Cavalry, the Ninth Texas Infantry, the Fourteenth Texas
+Cavalry, and Douglas’ Texas Battery were involved in this conflict. The
+Rangers raided the enemy’s rear and gained intelligence while the rest
+of the Lone Star State units, except Maxey’s Ninth Infantry, were
+grouped together in Ector’s First Brigade of Hardee’s Corps. The Tenth
+Texas Cavalry took three stands of enemy colors and six artillery
+pieces, and the Eleventh Texas Cavalry captured three batteries and
+drove the Union forces back for three miles. The remaining Texas units
+participated in heavy fighting.[65]
+
+Then, in the spring and early summer of 1863, two Texas organizations,
+the Second Texas Infantry and eleven companies of Waul’s Legion
+particularly distinguished themselves in the defense of Vicksburg. When
+Grant’s men closed in on the river town, the Second Texas was charged
+with safeguarding the vital Baldwin’s Ferry Road approach to the
+Southerners’ line. This was judged to be “the assailable point of our
+lines; the face of danger; the post of honor; the key of this portion of
+our works of defense.”[66] After preliminary probes against the Texans’
+positions, on May 22 the Union threw five regiments against them.
+Colonel Ashbel Smith, the Second Texas regimental commander, reported
+that during this horrible struggle “my men received the enemy with a
+most resolute fire; my cannon belched canisters: my men made the air
+reel with yells and shouts as they saw the earth strewn with the enemy’s
+dead. One of the enemy’s regiments staggered and was thrown into utter
+confusion. Our men, too, fell thick and fast; the detachment of
+cannoneers suffered particularly.”[67] At times during the days’
+fighting, opposing infantrymen were firing within five paces of each
+other. Cotton bags that had been stacked to shelter the Confederates
+were torn open by Minie balls, and as whisps of cotton floated through
+the air some were ignited by the gunfire. In fact, these bits of burning
+fibre had to be snuffed out by the Texans’ bare hands when they
+endangered the unit’s ammunition supply. As the unsuccessful Union
+attackers fell back that night, the Second Texas, all but broken as a
+military organization, estimated that five hundred United States dead
+were left on the ground before it.[68]
+
+Beleaguered Vicksburg fell on July 4, but Colonel Smith could claim that
+his unit was justifiably proud even in defeat.
+
+  The Second Texas Infantry achieved one victory—they utterly destroyed
+  any prestige which the enemy might have heretofore felt when the
+  soldiers they should encounter should be Texans.... When the Second
+  Texas Infantry marched through the chain of the enemy’s sentinels, the
+  spirits of most of the men were even then at the highest pitch of
+  fighting valor. Released from the obligation of their parole, and arms
+  placed in their hands, they would have wheeled about, ready and
+  confident.[69]
+
+Also noteworthy in the great Vicksburg campaign was Waul’s Texas Legion,
+commanded by Colonel T. N. Waul. On May 22, all but two of its companies
+were defending the outskirts of the town. As an element of General S. D.
+Lee’s Brigade, these Texans, “Unprotected by breastworks, ... were
+subject to the most galling fire, and well they sustained the noble
+cause for which they fought, never relaxing, but [fighting] with
+increased ardor, until the last of the enemy was prostrated or driven
+from their sight.” The loss was very severe, particularly so in
+officers, every officer of the staff present being either killed or
+seriously wounded.[70] Later, when two Alabama regiments were unable to
+take a heavily defended United States flag on a close-in parapet,
+General Lee assigned the task to Waul’s men. They “moved to the assault,
+retook the fort, drove the enemy through the breach they entered, tore
+down the stand of colors still floating over the parapet, and sent them
+to the colonel commanding the Legion, who immediately transmitted it,
+with a note to General Lee.”[71] At the time of surrender, Waul’s unit
+had suffered almost seven hundred casualties at Vicksburg and had lost
+more officers than all the other regiments of the oversized division to
+which it was attached.[72]
+
+These were instances of but a few Texas units involved in several major
+engagements. Elsewhere dozens of Lone Star State regiments were proving
+their military prowess. Naturally not all units were as outstanding as
+Hood’s, but in the great majority of cases Texas organizations performed
+in a very impressive manner.
+
+
+                    ISOLATION OF THE SOUTHWEST: 1863
+
+Until the latter part of 1863 the Union was unable to hamper the growing
+cotton traffic from Texas to Mexico. According to the United States Navy
+Department, there were frequently several hundred ships standing off the
+mouth of the Rio Grande depositing goods in the Matamoros-Bagdad area
+and picking up Texas cotton for trans-oceanic shipment. Before the war,
+scarcely a half-dozen vessels visited these Mexican towns each year.[73]
+Because the Rio Grande was an international body of water, the Union was
+unable to blockade it. Foreign vessels, claiming to be trading with
+Mexico, could not legally be denied use of it. About the only way that
+this trade could be neutralized was for a Federal force to seize the
+Texas side of the river and to establish a patrol system to intercept
+all cotton haulers.[74] Most cotton for the Mexican trade was
+transported overland by ox wagon from agricultural regions for distances
+of up to five hundred miles or more. Convoys of three to fifteen
+ponderous wagons, well equipped with food and water, would normally take
+about three months to complete a round trip to the Rio Grande. Once
+across the river, the bales would be exchanged for blankets, shoes,
+powder, and chemicals used in the manufacturing and servicing of weapons
+of war.[75]
+
+A small portion of Texas cotton was carried to the outside world by
+blockade runners. When the Union tightened its blockade against the
+southeastern part of the Confederacy, a number of runners shifted their
+bases of operation to the less closely patrolled coast of Texas. By 1863
+Tampico, Vera Cruz, and Belize (British Honduras) had become rendezvous
+areas for cotton runners and cotton purchasers.[76] To gain maximum
+benefit from cargo space available in ships that were to run the
+blockade, screw-jacks were used to compress the bales of cotton into
+holds. It soon became a source of pride among stevedores to force the
+greatest number of bales into a given ship. In fact one unfortunate
+vessel was sunk when “over-ambitious bale handlers compressed the cargo
+through the bottom of the ship.”[77]
+
+Weapons and ammunition continued to be critically short in Texas.
+General Magruder, in 1863, estimated that 40,000 arms were needed to
+defend the Department of the Trans-Mississippi West.[78] With only a
+trickle of guns coming from outside sources, the state continued to urge
+local craftsmen to produce them. A cartridge factory was set up in the
+old land office building in Austin. Also in the capital city were a cap
+factory and a state foundry. Another cap factory, that used home-made
+machinery, was in Gillespie County. A limited number of firearms were
+fabricated in Rusk (Whitescarver and Campbell Co.) and near Tyler
+(Short, Biscoe and Co.) Elsewhere, tiny weapons shops were busy in
+Dallas County, and in the towns of Columbia, Lancaster, and
+Marshall.[79]
+
+The first half of 1863 saw campaigning in the Mississippi Valley that
+was seriously to affect the future of Texas. United States forces sought
+to wrest control of the great river from the Southerners. As Grant
+maneuvered to take Vicksburg, northern Confederate stronghold on the
+great river, Banks moved through Louisiana in preparation for an
+onslaught against Port Hudson, lowest Mississippi River point still held
+by the South. To scatter and confuse enemy defenders, Banks advanced on
+Port Hudson in such a way as to endanger key points in Louisiana.[80]
+These disruptive thrusts caused many Louisiana planters to bring their
+slaves into Texas to escape possible capture.[81] Also, Banks’ probes
+caused many Texas regiments to be shifted to Louisiana, where they were
+to assist in blocking Banks’ column. Pyron’s Regiment was one such Texas
+force. As it hurried from Galveston towards Niblett’s Bluff, on the
+Sabine River enroute to Louisiana, a distinguished British military
+observer reported on the unit’s appearance as it paraded by:
+
+  First came eight or ten instruments braying discordantly, then an
+  enormous Confederate flag, followed by about four hundred men moving
+  by fours—dressed in every variety of costume, and armed with every
+  variety of weapon; about sixty had Enfield rifles; the remainder
+  carried shot-guns (fowling pieces), carbines or long rifles of a
+  peculiar and antiquated manufacture. None had swords or bayonets—all
+  had six-shooters and bowie knives.[82]
+
+Finally, when Banks withdrew to the east of the Mississippi River and
+proceeded to concentrate against Port Hudson, most Texas commands in the
+area were shifted to the Red River Valley of northern Louisiana.[83]
+
+That summer the Union forces captured Vicksburg and Port Hudson, thus
+gaining full control of the Mississippi River. By instituting a very
+tight gunboat patrol system, the Union was able to transform this river
+into a formidable barrier that cut the Southwest away from other states
+of the Confederacy.[84] To size up the new situation Lieutenant General
+Edmund Kirby Smith, commander of the Confederate Department of the
+Trans-Mississippi West, called for a conference with the governors of
+Texas, Louisiana, Arkansas, and Missouri. The meeting was held at
+Marshall in mid-August of 1863. The key question to be discussed was
+that of Kirby Smith’s powers. While the governors showed a reluctance to
+admit it, the General would obviously have to become virtual dictator of
+the isolated trans-Mississippi region. Only in that way could the states
+involved gain the vital strength in leadership that would allow them to
+remain undefeated. Tacit recognition of Kirby Smith’s need for extensive
+control was indicated by the governors’ agreement that he should
+supervise all defenses and oversee all future cotton transactions with
+Mexico.[85]
+
+As the Marshall Conference was in progress, the Union War Department
+ordered an invasion of Texas. In view of French gains against the Juarez
+government of Mexico, General Banks was told that “there are important
+reasons why our flag should be restored in some points of Texas with the
+least possible delay.”[86] Left to his own discretion as to the exact
+point of attack, Banks decided to land an expedition at Sabine Pass. The
+main defense of the Pass was an unimpressive earthwork named Fort
+Griffin which commanded the narrows about one and a half miles below
+Sabine City. The fort had six guns and was manned by Company “F” of the
+First Texas Heavy Artillery. This particular unit, under Captain F. H.
+Odlum and Lieutenant Dick Dowling, was composed of Irish stevedores who
+had been recruited in Houston and Galveston.
+
+At midnight on September 6, a sentry sighted ship signals off the coast.
+Because the company commander was absent, Dowling assumed command of the
+fort. By mid-morning a fleet of twenty-two transport ships and five
+gunboats was standing off Sabine Pass. On board the vessels was an
+invasion force of 5,000 men. Until the following dawn the ships stood
+off the narrows, and then the shelling of Fort Griffin commenced.
+Dowling, who wished to draw the enemy closer, offered no fire in
+response. Finally, when three of the enemy gunboats had been lured to
+within a very close range, the Confederate cannoneers opened with a
+tremendous barrage of fire. In forty-five minutes the battle ended with
+Dowling the complete victor. His guns sank two gunboats, damaged one,
+and drove off the remaining ships. He took three hundred and fifty
+prisoners, killed almost one hundred men, and gained a number of Federal
+weapons and supplies. No injuries were suffered on the Southern side,
+although some of Dowling’s guns were almost ruined by the heat of the
+rapid firing. The men of the company were highly honored for this
+success, and their incredible victory served to boost the morale of
+Texas and of the Confederate cause.[87]
+
+Several months later, a second plan by Banks to take Sabine Pass by an
+overland march from Louisiana was ruled out due to communication
+difficulties. Then, in November, the determined Banks succeeded in
+landing 7,000 troops, including a Negro regiment, on the Brazos de
+Santiago bar at the mouth of the Rio Grande. When Brigadier General
+Hamilton P. Bee learned of this at his headquarters in nearby
+Brownsville, he realized that his 1,200 soldiers could not defend the
+city. So, on November 3, 1863, Bee and his men evacuated the burning
+border town.[88] With the Matamoros trade route thus closed by the Union
+seizure of Brownsville, cotton for Mexico would now have to be hauled
+either through Laredo, two hundred thirty-five miles upstream from
+Brownsville, or through Eagle Pass, ninety miles up the river from
+Laredo. As for continuing the occupation of the Rio Grande Valley, Union
+commanders agreed that such an effort would involve the use of an
+unjustified number of regiments.[89]
+
+Elsewhere along the coast, Union troops were similarly active. By the
+end of 1863 the Federals had limited forces at Corpus Christi, Mustang
+Island, Pass Cavallo, Saint Joseph’s Island, Indianola, and Port Lavaca.
+Except for Galveston the enemy controlled the principal coastal towns of
+the state.[90] But, as Confederate officers and state leaders called for
+more men and desperately planned to regain Texas ports, high strategic
+considerations in Washington caused the Union to evacuate most of the
+occupied coast. It was again a matter of tying up too many regiments,
+forces that would be needed in 1864 for a massive invasion of the Red
+River Valley, an action that might well cause the fall of the whole
+southwest.[91] Gradually the invaders withdrew until the only force
+remaining on the coast was a strong command located near Brownsville.
+
+Near the end of 1863 the Texans again held a gubernatorial election.
+When the able Lubbock announced that he would not seek office again, the
+contest was between Pendleton Murrah and T. J. Chambers. In a dull
+campaign the ailing Murrah easily won.[92]
+
+
+                       BEGINNING OF THE END: 1864
+
+The western frontier of Texas was again being ravaged by Indian raids in
+1864. The Frontier Regiment still existed; but, once it was accepted
+into Confederate service, all but four of its companies were transferred
+to East Texas. These four companies and a small command known as
+Bourland’s Border Regiment, stationed near the Red River, simply could
+not safeguard the state’s extensive line of settlement against heavy
+Indian attacks.[93] In one raid six hundred Comanches and Kiowas
+depredated the Elm Creek locality in Young County.[94] The only help
+that the Texas government could offer the hard-pressed frontiersmen was
+advice to “fort up” for security. In explaining this means of defense, a
+state general order stressed the need for “getting together & building
+blockhouses and stockade to live in. Four, five, or more families might
+get together in this way, & thus insure the safety of the women &
+children.”[95] Buck Barry, an experienced Indian fighter, described an
+ideal stockade as four houses fenced together with picket logs and
+featuring two log bastions on opposite corners to allow sharpshooters to
+cover all approaches.[96] Until well after the end of the great
+sectional struggle, Texas frontier families relied on this passive
+defensive means during frequent periods of Indian unrest.
+
+With the arrival of spring, 1864, the Federals commenced an invasion up
+the Red River that was expected to penetrate into Texas. Again General
+Banks had charge of the expedition. This time his forces moved up the
+Red River while another Union column pushed southward through Arkansas.
+The objective of both Federal armies was Shreveport. By late March,
+General Kirby Smith had received communications that convinced him of
+the seriousness of these two enemy columns. In all, the enemy forces
+were estimated to total 50,000 foot soldiers and 8,000 cavalry troops.
+Major General Richard Taylor, in command of Confederate forces in
+western Louisiana, and Major General Sterling Price, Confederate
+commander in Arkansas, were both instructed to pull back cautiously
+toward Shreveport before the Federal advances. The two commanders were
+also warned to avoid heavy clashes with the invaders unless success was
+sure to follow for the Southerners.[97] General Kirby Smith warned
+Governor Murrah of the situation: “It is my duty to advise you that your
+State, especially, in its Northern Section, is threatened with immediate
+invasion, that the means at my disposal are comparatively small and
+inadequate, and I urge upon you the necessity of putting immediately
+every armed man in Texas into the field.”[98]
+
+In answer to this situation, drastic means were taken to force men into
+uniform. Shirkers were arrested and forced into military service, and
+troops detailed to non-combatant jobs were returned to active commands.
+Confederate regiments at guard positions in Texas were shifted to
+Louisiana, while defense of the Gulf ports was left to state
+soldiers.[99] In the meanwhile, Major General F. Steele and the Union
+forces in Arkansas pushed across the Little Missouri River to within two
+hundred miles of Banks, who had now secured Natchitoches, Louisiana.
+Then, on April 8, 1864, as Banks’ invaders occupied Pleasant Hill,
+Louisiana, and advanced to within three miles of Mansfield, Louisiana,
+General Taylor committed his forces in a desperate attempt to throw back
+the Federals. After a hard fought battle Banks’ army was defeated and
+compelled to retreat to Pleasant Hill. Taylor’s men retained close
+contact with the retreating Federals and after equally hard fighting on
+the second day, the Confederate commander could report that the Union
+troops were undertaking a night withdrawal to the Red River near
+Natchitoches. Later Southern reports claimed a Union rout on the first
+day and a definite check on enemy counter-attack on the second day.[100]
+
+When Union prisoners captured in this fighting were asked what had
+caused their retreat, some of them claimed that it was “them ‘durned
+Texans’ hollerin’ that scared them.”[101] Texas troops especially
+enjoyed the capturing of
+
+  A regiment of New York Zouaves all dressed in red flannel trousers,
+  looking somewhat like ladies’ bloomers of later times. They wore
+  dainty red caps with tassels and made a sight for the Texans to look
+  at, and when they were marching by and were halted, the Texas troops
+  pretended to get mad, swore because they had been compelled to fight
+  women. Some of them threw down their guns and declared that if they
+  were to fight any more women they would go home. The Zouaves thought
+  the Texas boys were in earnest and protested loudly that they were not
+  women.[102]
+
+Banks eventually withdrew to Alexandria, barely saving his fleet, which
+was almost stranded upstream by a sudden fall in the Red River.[103]
+Meanwhile, in late April, Price forced an enemy retreat in Arkansas. At
+Poison Springs, Marks’ Mill, and Jenkins’ Ferry, General Steele was
+repulsed and his command pressed northward. Thus, the overall Union plan
+to converge on Shreveport was frustrated and Kirby Smith’s men had
+victoriously repulsed overwhelming numbers.
+
+Although Richmond was delighted to hear this news, these successes in
+the Trans-Mississippi West had a strange effect on the thinking of
+Confederate leaders. President Jefferson Davis and the War Department
+suddenly came to look on Kirby Smith’s scattered, unpaid, and poorly
+organized army of 30,000 men as a powerful source of reinforcements for
+hard-pressed Confederate commands to the east of the Mississippi River.
+Orders were issued for heavy portions of Kirby Smith’s army to cross the
+great river in August, 1864. At the last moment, however, these plans
+were cancelled—partly because of the near impossibility of the river
+crossing operation and partly because of heated protests from General
+Kirby Smith. While the War Office was justified in seeking relief for
+the divisions in the east, Kirby Smith made it clear that his regiments
+were barely capable of securing the Southwest. The loss of any
+appreciable number of men would spell sure doom for his department.[104]
+
+While Texas now seemed temporarily safe from military advances, other
+signs of weakness were to be observed. Confederate paper dollars came to
+be worth only twenty cents or thirty cents in specie. Texas tried to
+correct this condition by issuing state treasury warrants, but this
+paper likewise suffered a drastic drop in real value as the war
+continued.[105] The heavily indebted state pressed Richmond for payment
+of defense claims; but unfortunately for Texas, these claims were never
+honored.[106] As for cotton sales in Mexico, this one great source of
+revenue for the Lone Star State was very poorly managed. Due to
+conflicting rules set down by the Confederate government, by the
+departmental commander, by the state military district commander, and by
+the state civil government, the entire commerce was badly hampered.[107]
+Added to this were the manipulations of dishonest state and Confederate
+purchasing and marketing agents. About the only successful cotton
+brokers were those men who flaunted the laws and smuggled bales across
+the Rio Grande.
+
+Other serious weaknesses in Texas were a continued scarcity of weapons,
+a shortage of laborers that forced the Confederate authorities to
+impress slaves, and refusals on the part of civilians to sell supplies
+to the army that ultimately resulted in impressments.[108] As for the
+citizens, they were oppressed by high taxes, inflation, and shortages of
+basic necessities. By late 1864 shoes cost $30, watermelons sold at $5
+each, coffee brought $10 per pound when it was available, and one woman
+reportedly paid $90 for a yard and a half of denim material.[109] Salt
+was so scarce that many people dug up the floors of their smoke-houses
+and leached the soil to regain the saline drippings. Toothbrushes
+consisted of the chewed ends of twigs. Whole dishes were scarce and were
+handled with loving care. Paper, quinine, and tea were almost impossible
+to find.[110] Finally, the overall unhealthy situation of the times was
+aggravated by unconfirmed reports of Unionist uprisings in the state,
+unwarranted speculation on future invasions of Texas, and dozens of
+extremely wild rumors.[111]
+
+
+                    FIGHTING BEYOND TEXAS: 1863-1865
+
+After heavy losses at Gettysburg, Hood’s Texas Brigade was shifted to
+Tennessee in September of 1863. At Chickamauga, the First Texas, Fourth
+Texas, and Fifth Texas charged through artillery and small arms fire to
+push repeatedly against a determined enemy in well protected positions.
+One company of the First Texas had only a single officer and no men
+surviving as a result of the many days of fighting. The First and Fifth
+Texas had fewer than one hundred men each who were unscratched at this
+point of the campaign.[112]
+
+In November, the Texans in Hood’s Brigade marched off with Lieutenant
+General James Longstreet to capture the Federal stronghold at Knoxville.
+When this plan miscarried, Longstreet’s army was compelled to spend a
+miserable and austere winter in northeastern Tennessee. With the spring
+thaws of 1864, the Texas Brigade again was shifted to the Virginia
+front. Back in familiar surroundings, the battered regiments struggled
+to withstand General Grant’s hammering. At the Wilderness, Spotsylvania,
+Cold Harbor, and other prominent Virginia engagements, the brigade
+continued to rely on bravery to compensate for its lack of size.
+
+The remaining months of the war saw the Texans manning a portion of the
+Richmond line and then acting as a rear guard in April of 1865, when
+Longstreet’s Corps tried to retreat to Danville. As the news of the
+surrender was heard, the Texans were entrenching themselves in the face
+of an impending attack. The three Texas regiments had performed
+remarkable feats of arms and, on a number of occasions, had been singled
+out by General Lee for praise. But again the price of military fame had
+been staggering—the historian of Company “M” of the First Texas made
+this all too clear when he recorded that only six of the company’s
+original one hundred and twenty-five men were present at the
+surrender.[113]
+
+Meanwhile, after Hood’s Brigade marched off towards Knoxville in late
+1863, almost a dozen Texas units had remained behind to complete the
+Chattanooga campaign. In Breckinridge’s Corps were the Sixth Texas
+Infantry, the Seventh Texas Infantry, the Tenth Texas Infantry, the
+Fifteenth Texas Cavalry (dismounted), the Seventeenth Texas Cavalry, the
+Eighteenth Texas Cavalry, the Twenty-Fourth Texas Cavalry, the
+Twenty-Fifth Texas Cavalry, and Douglas’ Texas Battery. Two other Texas
+cavalry regiments, the Eighth (Terry’s Texas Rangers) and the Eleventh,
+were assigned to Wheeler’s Cavalry Corps.
+
+On November 24 and 25, the Texas regiments in Cleburne’s Division of
+Breckinridge’s Corps engaged in bitter combat on Missionary Ridge. As
+the center of the Confederate line was broken, Texas regiments that had
+been making progress against the Union right were commanded to fall back
+to Ringgold, Georgia, twenty miles away, and to make a defensive stand
+there as the main Southern army pulled back through that town. On
+November 26, the Texans were manning blocking positions near Ringgold.
+Strenuous fighting there delayed Union advance elements until General
+Braxton Bragg’s main forces were safe. At one time in this rear guard
+action, three Texas companies routed “an entire regiment, the
+Twenty-ninth Missouri (Federal), capturing their colors and between 60
+and 100 prisoners, and causing the attacking brigade to withdraw.”[114]
+The Texans were tendered a vote of thanks by the main army for their
+protective screening of the retreat. Hiram B. Granbury, who had recently
+been given command of a brigade of these Texas regiments, was promoted
+to the rank of brigadier general for this action.[115]
+
+Throughout 1864 the Texans were active in the fighting that took place
+in northwestern Georgia and in the defenses of Atlanta. That fall, the
+men of the Lone Star State were present when John Bell Hood assumed
+command of the Army of Tennessee and instituted his winter push back
+into Tennessee. At Franklin, Granbury’s men were all but wiped out in a
+series of unsuccessful assaults against Union positions on November 30,
+Granbury being one of the killed. The next morning not a single captain
+in the brigade was capable of performing duty. The remnants of the
+shattered Texas regiments were almost captured at Nashville when Union
+Major General George Thomas’ pressure caused a break in the Southerners’
+left and center. As a rout-like withdrawal commenced, the Texans on the
+extreme right were not given the word to fall back. When they discovered
+that the rest of the army was retreating, the Texans fell back and were
+again assigned the serious task of guarding the rear of the main
+force.[116]
+
+After Hood’s failure in Tennessee, command of the army was returned to
+General Joseph Johnston in January, 1865. For the rest of the war the
+Texans in Johnston’s army fought in vain to arrest Sherman’s advance
+from Savannah into the Carolinas. At the time of the surrender there
+were only about six hundred men in the eight regiments that composed
+Granbury’s old brigade. In one company of the Eighteenth Texas Cavalry
+there were but five men left.[117]
+
+Elsewhere, earlier in the war, Ross’ Cavalry Brigade had engaged in
+extensive raiding operations in the Alabama-Mississippi-Tennessee area.
+Ross’ command was composed of the Third Texas Cavalry, the Sixth Texas
+Cavalry, The Ninth Texas Cavalry, and Twenty-Seventh Texas Cavalry.
+After patrolling to the south of Vicksburg, the brigade spent much of
+the remainder of 1864 harassing a large Union force that shifted from
+the Mississippi Valley to the east, and in defending Atlanta. While
+striving to delay United States advances against Atlanta, the brigade
+averaged a fight a day for over three months. Late that fall, Ross was
+ordered to support Hood’s re-entry into Tennessee. In raids of late
+November and December, Ross lost over one hundred men; yet he captured
+over five times that number of prisoners, he seized nine Federal colors,
+he relieved the enemy of a great amount of equipment, he destroyed two
+fully loaded United States railway supply trains, and he captured almost
+fifty supply wagons. Ross’ Brigade ended the war again conducting patrol
+actions in Mississippi.[118]
+
+Similarly active was Terry’s Texas Rangers. After suffering forty per
+cent casualties in the Chickamauga-Chattanooga struggles, the Rangers so
+diligently carried out raids against Federal camps that they crossed and
+re-crossed the Tennessee River on six different occasions in the winter
+of 1863-64. After the fall of Atlanta and the commencement of Hood’s
+Tennessee campaign, the Rangers remained in Georgia with Wheeler’s
+Cavalry Corps—the only sizable unit left to oppose Sherman’s march
+across Georgia. When the Union army reached Savannah and redirected its
+march into the Carolinas, the Texans kept up their futile efforts to
+delay the advance of the overpowering Federal forces. Finally, in April
+of 1865, at Greensboro, North Carolina, the Texans learned of General
+Joseph Johnston’s surrender. In spite of this, a number of men agreed to
+evade their captors and to flee westward in small groups to join Kirby
+Smith’s army in the Southwest. But by the time these men reached the
+Mississippi River, news was heard of the surrender of all Confederate
+forces to the west. Disappointed brigade members then realized the
+hopelessness of their situation and disbanded.[119]
+
+Texas contributed heavily to the Confederate military effort in terms of
+manpower and in the area of leadership. It contributed one general,
+Albert Sidney Johnston. It was the adopted home of a lieutenant general,
+John Bell Hood. It furnished three major generals: S. B. Maxey, John A.
+Wharton, and Tom Green. In addition there were thirty-two brigadier
+generals and almost one hundred colonels.[120] As for troop units, the
+Lone Star State supplied the Confederate army with forty-five regiments
+of cavalry, twenty-three regiments of infantry, twelve battalions of
+cavalry, four battalions of infantry, one regiment of heavy artillery,
+and three light artillery batteries. Besides these units mustered into
+Confederate service, Texas had many organizations that remained under
+state control. A current listing of named Texas units includes thirty
+artillery batteries, one artillery regiment, thirty-nine cavalry
+battalions, sixty-one cavalry regiments, thirteen infantry battalions,
+twenty-eight infantry regiments, and two legions.[121] These
+organizations fought in all parts of the South and their operations
+ranged from Maryland to Arizona and from the Potomac River to the Rio
+Grande. As for heroism, the state produced such outstanding regiments as
+those of Hood’s Brigade and such noted individuals as Lieutenant Dick
+Dowling. In all, the men of Texas did their utmost to support the
+Southern cause to which they had pledged their allegiance.
+
+
+                           THE BREAK-UP: 1865
+
+By spring, 1865, the soldiers of the trans-Mississippi region were
+showing signs of the increasing defeatist feeling. A Union officer who
+scouted widely in the Rio Grande valley reported that “the
+demoralization of the rebel army in Texas is very extensive. In all the
+counties from San Antonio to Austin up to the mountains the rebel
+soldiers are coming home in large numbers, and in two or three places
+have notified the enrolling officer and provost-marshal that their
+services were no longer needed.”[122]
+
+But on the other hand, the Confederate government and General Kirby
+Smith were taking extreme measures to keep the field forces intact. In
+February, 1865, all non-fighting troop details were outlawed except
+where soldiers were needed to keep a few key manufacturies in operation,
+all white men from eighteen to forty-five were ordered to report for
+immediate military service, and all leaves were cancelled.[123] Kirby
+Smith implored Richmond to make available the $50,000,000 in back pay
+due his men.[124] All Confederate prisoners on parole in Texas were
+declared to be exchanged and were commanded to rejoin their units.
+Unauthorized absentees were promised pardons if they returned to their
+companies within twenty days.[125] Once more Federal invasion troops
+were moving up the Red River and down from Arkansas. Only by thus
+scraping the bottom of the barrel could Texas hope to keep the
+determined foe at bay.
+
+In late April, 1865, just as a number of scandals involving illegal
+seizures of privately owned cotton were coming to light, the word
+arrived in Texas that General Lee had surrendered in Virginia. General
+Kirby Smith and Governor Murrah quickly penned proclamations asking the
+soldiers and citizens of the trans-Mississippi region to continue the
+struggle. Murrah declared that “These unforeseen calamities imposed
+additional responsibilities on the State of Texas” because Southerners
+now looked “with eager eyes and anxious hearts to the people and armies
+of this Department, for rescue and deliverance. They will not—they must
+not look in vain. With God’s blessing, it may yet be the proud privilege
+of Texas, the youngest of the Confederate Sisters, to redeem the cause
+of the Confederacy from its present perils.”[126]
+
+But such inspiring words failed miserably to compensate for the common
+realization that the Confederacy had failed. It could now be seen that
+for many months past the Southwest had endured the war in a desperate
+hope that Lee would soon achieve complete victory. With this one great
+hope crushed, the entire department was too demoralized to continue the
+fight. Desertions in very large numbers followed. Oftentimes bands of
+ten and twenty men would leave their undersized regiments in a single
+night. In Galveston, only the timely calling out of faithful troops
+prevented the attempted desertion of four hundred soldiers.[127]
+
+By May, surrender negotiations between Kirby Smith’s representatives and
+the United States government were in progress. It was at this time that
+the last land action of the war took place in the isolated Brownsville
+sector. In mid-May some eight hundred Union soldiers were moving from
+their Brazos de Santiago base when they suddenly made contact with
+several hundred of Colonel John S. Ford’s Confederates who were camped
+at White’s Ranch. The Southerners had heard nothing of Lee’s surrender,
+but had been warned of the presence of Union troops by French and
+Mexican observers on the south side of the Rio Grande. The Federals
+quickly formed a skirmish line, pushed against the Confederates, and
+then entrenched in the sandy soil of Palmetto Ranch. As this occurred,
+Ford managed to position six artillery pieces on Palmetto Hill and fired
+down into the United States soldiers’ defensive works. This forced the
+superior Federal command to retire from the field. In all, the Union
+lost over one hundred prisoners. When these captives convinced Ford of
+Lee’s surrender, the Texans were so stunned that no pursuit of the
+retreating enemy soldiers was attempted.[128]
+
+Finally, on May 26, Lieutenant General S. B. Buckner, Kirby Smith’s
+Chief of Staff, negotiated a “military convention of peace” with high
+Union officials in New Orleans.[129] This act was finalized on June 2
+when General Kirby Smith formally signed the articles of surrender
+aboard the Union warship _Fort Jackson_ in Galveston harbor. In the same
+month Federal troops arrived to occupy Texas. To impress French
+observers in Mexico, the Rio Grande was made a point of concentration
+for occupation soldiers. A strange sight was seen in Galveston on June
+16 when the occupation officially started. Three hundred silent Texans
+watched as a United States transport ship loaded with soldiers was tied
+to the landing while a blue clad band played “Yankee Doodle.” Three days
+later, on “Juneteenth,” Major General Gordon Granger, recently named
+commander of Union forces in Texas, landed at the same port and
+immediately issued a proclamation declaring free all Texas slaves.[130]
+Eventually there were over 50,000 Federal soldiers in Texas. Parts of
+Herron’s Division occupied northeastern Texas. Mower’s Division occupied
+Galveston. Custer and 4,000 cavalrymen occupied Austin. Merritt occupied
+San Antonio with an even larger force of mounted men. Elsewhere the
+state was occupied by the Fourth Corps, the Thirteenth Corps, and the
+Twenty-Fifth Corps.[131]
+
+The war was at last over. Some Texans were able to express pleasure that
+the end had finally come while others were not talking. A few of the
+state’s leaders during the war fled to Mexico. The solid citizenry of
+the state faced the task of creating a respected state government and an
+enduring nation. They faced this task with a firmness of purpose that
+has characterized our citizens since the establishment of the Republic
+of Texas.
+
+
+
+
+                                 NOTES
+
+
+1. To the north were Commanches and Kiowas, to the west were Apaches and
+hostile New Mexicans, and to the south were unfriendly Mexicans.
+
+2. _Population of the United States in 1860_ (Washington: Government
+Printing Office, 1864), pp. 472-90.
+
+3. _Ibid._, _Agriculture of the United States in 1860_ (Washington:
+Government Printing Office, 1864), pp. 140-51. A. B. Bender, “Principal
+Military Posts in the Southwest” in _The March of Empire_ (Lawrence:
+University of Kansas Press, 1952), opposite p. 284.
+
+4. Ernest W. Winkler, _Platform of Political Parties in Texas_ (Bulletin
+of the University of Texas, 1916: No. 53), pp. 11-80. Llerena Friend,
+_Sam Houston The Great Designer_ (Austin: The University of Texas Press,
+1954) pp. 241 ff. Charles W. Ramsdell, “The Frontier and Secession” in
+_Studies in Southern History and Politics: Inscribed to William
+Archibald Dunning_ (New York: Columbia University Press, 1914), p. 74.
+
+5. Hattie J. Roach, _A History of Cherokee County_ (Dallas: Southwest
+Press, 1934), pp. 61-62. Anna I. Sandbo, “Beginnings of the Secession
+Movement in Texas” in _The Southwestern Historical Quarterly_, XVIII,
+No. 2, Oct., 1914, pp. 169-72.
+
+6. The convention call referred to Section I of the “Bill of Rights” of
+the Texas Constitution of 1845. This section provided that “All
+political power is inherent in the people, and all free governments are
+founded on their authority, and instituted for their benefit; and they
+have at all times the unalienable right to alter, reform, or abolish
+their form of government, in such a manner as they think expedient.”
+Constitution of The State of Texas (1845) in H.P.N. Gammel, _The Laws of
+Texas 1822-1897_ (Austin: The Gammel Book Co., 1898), II, p. 1277. Oran
+M. Roberts, “The Political, Legislative, and Judicial History of Texas
+for its Fifty Years of Statehood” in Dudley G. Wooten, A _Comprehensive
+History of Texas 1685 to 1897_ (Dallas: William G. Scarff, 1898), II, p.
+88.
+
+7. Edward R. Maher, Jr., “Sam Houston and Secession” in _The
+Southwestern Historical Quarterly_, LV, No. 4, Apr., 1952, pp. 453-54.
+Amelia W. Williams and Eugene C. Barker, _The Writings of Sam Houston
+1813-1863_ (Austin: The University of Texas Press, 1943), VIII, pp.
+220-21. Ernest W. Winkler [ed.], _Journal of the Secession Convention of
+Texas 1861_ (Austin: Austin Printing Co., 1912), pp. 9-13.
+
+8. _Ibid._, pp. 20-22, 405-08.
+
+9. Gammel, _The Laws of Texas_, IV, pp. 1519-20.
+
+10. The seven delegates to Montgomery Convention were: Louis T. Wigfall,
+John Hemphill, John H. Reagan, John Gregg, W. S. Oldham, T. N. Waul, and
+William B. Ochiltree.
+
+11. Winkler, _Journal of the Secession Convention_, pp. 15-85.
+
+12. “Proclamation by the Governor” Executive Record Book Governor F. R.
+Lubbock 1861 to 1863, No. 279, MSS, p. 187. Texas State Archives.
+
+13. Winkler, _Journal of the Secession Convention_, pp. 262-83.
+
+14. Roberts, “Fifty Years of Statehood” in Wooten, _A Comprehensive
+History of Texas_, II, p. 114.
+
+15. Winkler, _Journal of the Secession Convention_, pp. 86-90.
+
+16. _Ibid._, pp. 92-251.
+
+17. “Texas and Texans in the Civil War. 1861-1865” in Wooten, _A
+Comprehensive History of Texas_, II, pp. 522-26.
+
+18. “Proclamation to the People of Texas,” Apr. 17, 1861, Executive
+Record Book, No. 279, pp. 237-40. “Proclamation to the People of Texas”,
+Apr. 24, 1861. _Ibid._, pp. 242-43.
+
+19. Ella Lonn, _Foreigners in the Confederacy_ (Chapel Hill: The
+University of the North Carolina Press, 1940), p. 59, 124. McCulloch to
+Davis, Mar. 25, 1861. _The War of the Rebellion: A Compilation of the
+Official Records of the Union and Confederate Armies_ (Washington:
+Government Printing Office, 1880-1901), I, 9, pp. 704-05. Hereafter
+referred to as _O.R._, and assumed to be Series I unless otherwise
+indicated. _Idem._ to _idem._ Mar. 31, 1861, _ibid._, p. 705.
+
+20. “Statement of regiments, etc. mustered into the service of the
+Confederate States,” Sept. 30, 1861, _ibid._, IV, 1, p. 630.
+
+21. Clark to Legislature, Nov. 1, 1861, Executive Record Book, No. 279,
+pp. 355 ff. _Idem._ to Davis, July 28, 1861, Executive Record Book,
+Governor Edward Clark 1861, No. 80, MSS, p. 97. Texas State Archives.
+
+22. W. W. Heartsill, _Fourteen Hundred and 91 Days in the Confederate
+Army_. Bell I. Wiley [ed.] (A Facsimile reproduction of the original.)
+(Jackson, Tennessee: McCowat-Mercer Press, 1954), p. xv, 2-4, 14 ff,
+22-23.
+
+23. _The Southern Confederacy_ (Seguin), Sept. 20, 1861. Clark to Rogers
+and Felder, May 17, 1861, Executive Record Book No. 80, pp. 70-71. Byrd
+to McCulloch, Sept. 22, 1861, _O.R._, 4, p. 109.
+
+24. Clark to Baylor, May 13, 1861, Executive Record Book, No. 80, p. 63.
+_Idem._ to Nichols, May 17, 1861, _ibid._, p. 71. _Idem._ to Bee, Aug.
+15, 1861, _ibid._, pp. 108-09.
+
+25. _Idem._, to Carothers, Aug. 29, 1861, _ibid._, p. 123. _Idem._ to
+Walker, Sept. 7, 1861, _ibid._, pp. 127-28. Myers to Minter, Sept. 14,
+1861. _O.R._, 4, p. 105. Clark to the “People of Texas”, Aug. 31, 1861,
+Executive Record Book, No. 80, pp. 124-25.
+
+26. Frank Anderson, “Missouri’s Confederate State Capitol at Marshall,
+Texas” in _The Missouri Historical Review_, XXVII, No. 3, Apr., 1933,
+pp. 240-43. Clark to Davis, July 28, 1861, Executive Record Book, No.
+80, pp. 97-98. Joseph C. McConnell, _The West Texas Frontier_ (Palo
+Pinto: Texas Legal Bank and Book Co., 1939), II, p. 46. Gammel, _The
+Laws of Texas_, V, pp. 452-54. Lubbock to Reagan, Dec. 27, 1861, _O.R._,
+4, pp. 161-64. _Idem._ to McCulloch, Dec. 24, 1861. Executive Record
+Book, Governor F. R. Lubbock, 1861 to 1863, No. 81, MSS, p. 60. Texas
+State Archives.
+
+27. Pratt to Hunter, July 1, 1861. _Official Records of the Union and
+Confederate Navies in the War of Rebellion_ (Washington: Government
+Printing Office, 1912), 16, pp. 829-30. Hereafter referred to as
+_O.R.N._ Reports of Stevens, June 12, 1861, _ibid._, pp. 825-26. Lubbock
+to McCulloch, Dec. 23, 1861. Executive Record Book, No. 81, pp. 52-53.
+
+28. _Idem._ to Hébert, Dec. 7, 1861. _ibid._, pp. 31-34.
+
+29. Bee to Secretary of War, Oct. 12, 1861, _O.R._, 4, pp. 118-19.
+Claude Elliott, “Union Sentiment in Texas 1861-1865” in _The
+Southwestern Historical Quarterly_, L, No. 4, Apr., 1947, pp. 459-62.
+
+30. William McGraw, _Professional Politicians_ (Washington: The Imperial
+Press, 1940), pp. 117-18.
+
+31. _Galveston Weekly News_, Aug. 20, 1861. William C. Whitford,
+_Colorado Volunteers in the Civil War_ (Denver: The State Historical and
+National Historical Society, 1906), p. 29. Lynde to Canby, July 7, 1861,
+_O.R._, 4, p. 58. Report of Lynde, Aug. 7, 1861, _ibid._, pp. 5-6.
+
+32. Charles S. Walker, “Causes of the Confederate Invasion of New
+Mexico” in the _New Mexico Historical Review_, VIII, No. 2, Apr., 1933,
+pp. 76-97. Mamie Yeary, _Reminiscences of the Boys in Gray 1861-1865_
+(Dallas: Smith and Lamar, 1912), pp. 247-48. Whitford, _Colorado
+Volunteers_, pp. 20-21.
+
+33. Martin H. Hall, “The Formation of Sibley’s Brigade and the March to
+New Mexico” in _The Southwestern Historical Quarterly_, LXI, No. 3,
+Jan., 1958, pp. 385-405. Theodore Noel, _A Campaign from Santa Fe to the
+Mississippi; Being a History of the Old Sibley Brigade_ (Shreveport:
+Shreveport News Printing Establishment, 1865), pp. 5-6. Clark to Hogg,
+Aug. 16, 1861, Executive Record Book, No. 80, pp. 110-11. General Order
+No. 10, Dec. 14, 1861, _O.R._, 4, pp. 157-58. General Order No. 12, Dec.
+20, 1861, _ibid._, p. 159. Wright to Carleton, Jan. 31, 1862, _ibid._,
+pp. 90-91. Sibley to Cooper, Feb. 22, 1862, _ibid._, 9, pp. 505-06.
+Donaldson to Paul, Mar. 10, 1862, _ibid._, p. 527. Canby to A. G., Apr.
+11, 1862, _ibid._, pp. 549-50. W. W. Mills, _Forty Years at El Paso,
+1858-1898_ (Chicago: W. B. Conkey, 1901), pp. 54-59. Yeary,
+_Reminiscences_, p. 613.
+
+34. Roberts to Thomas, Apr. 23, 1862, _O.R._, 9, p. 666. William A.
+Keleher, _Turmoil in New Mexico 1846-1868_ (Santa Fe: The Rydal Press,
+1952), pp. 188 ff.
+
+35. Lubbock to Pike, June 18, 1862, Executive Record Book, No. 81, p.
+275.
+
+36. _Tri-Weekly Telegraph_ (Houston), May 24, 1862. Lubbock to Flournoy,
+Executive Record Book, No. 81, pp. 293-94.
+
+37. Report of Kittredge, _O.R.N._, 19, pp. 151-52. David D. Porter, _The
+Naval History of the Civil War_ (New York: The Sherman Publishing Co.,
+1886), pp. 345-46.
+
+38. DeBray to Moise, Oct. 5, 1862, _O.R._, 15, p. 148. Cook to Franklin,
+Oct. 9, 1862, _ibid._, pp. 151-53. Hébert to Lubbock, Nov. 8, 1862,
+_ibid._, p. 858. Lubbock to Washington, Dec. 9, 1862, Executive Record
+Book, No. 81, p. 436.
+
+39. Banks to President, Dec. 18, 1863 (sic.) _O.R._, 15, pp. 1096-97.
+
+40. Philip C. Tucker, 3d., “The United States Gunboat Harriet Lane” in
+the _Southwestern Historical Quarterly_, XXI, No. 4, Apr., 1918, pp.
+363-69. Porter, _Naval History_, pp. 269-71. Mrs. E. M. Loughery, _War
+and Reconstruction Times in Texas, 1861-1865_ (Austin: Von
+Boeckmann-Jones Co., 1914), p. 28. Yeary, _Reminiscences_, p. 139.
+
+41. Chris Emmett, _Texas Camel Tales_ (San Antonio: Naylor Printing Co.,
+1932), p. 197, 204, 212.
+
+42. A. J. H. Duganne, _Camps and Prisons, Twenty Months in the
+Department of the Gulf_ (New York: J. P. Robens, 1865), p. 243. Charles
+C. Nott, _Sketches in Prison Camps: A Continuation of Sketches of the
+War_ (New York: Anson D. F. Randolph, 1865), pp. 92-93, 171.
+
+43. _Ibid._, pp. 171-72. Dr. Albert Woldert, _A History of Tyler and
+Smith County, Texas_ (San Antonio: The Naylor Company, 1948), pp. 39-40.
+John W. Greene, _Camp Ford Prison; and How I Escaped_ (Toledo: n.p.,
+1893), p. 27, 29-30, 32.
+
+44. Lubbock to Pickens, Apr. 18, 1962, Executive Record Book, No. 81, p.
+225.
+
+45. Charles W. Ramsdell, _Reconstruction in Texas_ (New York: Columbia
+University, 1910), p. 21.
+
+46. Duff to Gray, June 23, 1862, _O.R._, II, 4, pp. 785-87. Lonn,
+_Foreigners in the Confederacy_, pp. 312-13. Gertrude Harris, _A Tale of
+Men Who Knew Not Fear_ (San Antonio: Alamo Printing House, 1935), pp.
+13-15. H. A. Trexler, “Episode in Border History” in _Southwest Review_,
+XVI, No. 2, Jan., 1931, pp. 237-38.
+
+47. _Tri-Weekly Telegraph_ (Houston), Dec. 5, 1862.
+
+48. General Order No. 45, May 30, 1862, _O.R._, 9, pp. 715-16. Cooper to
+Hébert, Sept. 12, 1862, _ibid._, p. 735.
+
+49. Heartsill, _1491 Days_, pp. 44-45. Matthew P. Andrews, _The Women of
+the South in War Times_ (Baltimore: The Norman-Remington Co., 1920), pp.
+416-23. Loughery, _War in Texas_, pp. 14-15. W. Lotto, “Fayette County,
+Her History and Her People” in Leonie R. Weyand and Houston Wade, _An
+Early History of Fayette County_ (LaGrange: LaGrange Journal, 1936), p.
+252.
+
+50. Lubbock to Rippetoe, Jan. 27, 1862, Executive Record Book, No. 81,
+pp. 114-15. _Idem._ to Fluellen, Jan. 27, 1862, _ibid._, pp. 116-17.
+_Idem._ to Lane, Feb. 5, 1862, _ibid._, p. 138. _Idem._ to Bryan, July
+1, 1862, _ibid._, pp. 286-88. _Idem._ to Feris, Nov. 16, 1862, _ibid._,
+pp. 388-89, 390.
+
+51. J. B. Hood, _Advance and Retreat_ (New Orleans: Hood Orphan Memorial
+Fund, 1880), pp. 15-19.
+
+52. In early 1862 Wigfall was elected to the Confederate Senate and Hood
+gained command of the brigade.
+
+53. Douglas Southall Freeman, _Lee’s Lieutenants_ (New York: Charles
+Scribner’s Sons, 1946), I, pp. 197-99. Hood, _Advance and Retreat_, p.
+21.
+
+54. _Ibid._, p. 28. Report of Whiting, _O.R._, 11 pt. 2, pp. 563-64.
+Report of Hood, _ibid._, pp. 568-69.
+
+55. Report of Hood, _ibid._, 12, pt. 2, pt. 604-06. Report of Guild,
+_ibid._, p. 560. Report of Robertson, _ibid._, p. 618.
+
+56. Report of Hood, _ibid._, 19, pt. 1, pp. 922-24. Report of Frobel,
+_ibid._, pp. 924-26.
+
+57. Report of Wofford, _ibid._, pp. 927-29. Report of Work, _ibid._, pp.
+931-34.
+
+58. Report of Robertson, _ibid._, 27, pt. 2, pp. 404-07.
+
+59. Harry McCorry Henderson, _Texas in the Confederacy_ (San Antonio:
+The Naylor Company, 1955), pp. 31-34. Freeman, _Lee’s Lieutenants_, III,
+pp. 145 ff.
+
+60. U. S. Grant, _Personal Memoirs of U. S. Grant_ (London: Samson Low,
+Marston, Searle, & Rivington, 1885), p. 185.
+
+61. William P. Johnston, _The Life of Gen. Albert Sidney Johnston_ (New
+York: D. Appleton and Company, 1879), pp. 557, 677. Mrs. Kate Scurry
+Terrell, “Terry’s Texas Rangers” in Wooten, _A Comprehensive History of
+Texas_, II, p. 685.
+
+62. _Ibid._, pp. 577-80.
+
+63. Johnston, _Johnston_, pp. 558 ff.
+
+64. Report of Whitfield, _O.R._, 17, pt. 1, pp. 128-29. Grant,
+_Memoirs_, pp. 210-14. “Texas and Texans in the Civil War. 1861-1865” in
+Wooten, _A Comprehensive History of Texas_, II, pp. 618-19. “The Service
+of Texas Troops in the Armies of the Southern Confederacy”, _ibid._, pp.
+608-09. Henderson, _Texas in the Confederacy_, pp. 114-15.
+
+65. Report of Ector, _O.R._, 20, pt. 1, p. 929. Report of Lock, _ibid._,
+pp. 930-32. Report of Bounds, _ibid._, pp. 932-33. Organization of the
+Army of Tennessee, _ibid._, pp. 658-61. Return of the casualties of the
+Confederate forces, _ibid._, pp. 676-81.
+
+66. Smith to Pemberton, July —, 1864, _ibid._, 24, pt. 2, p. 385.
+
+67. _Ibid._, p. 388.
+
+68. _Ibid._, pp. 388-90.
+
+69. _Ibid._, pp. 393-94.
+
+70. Waul to Memminger, July 30, 1863, _ibid._, p. 358.
+
+71. _Ibid._
+
+72. _Ibid._ Summary of the casualties in the Confederate forces during
+the siege of Vicksburg, _ibid._, p. 328.
+
+73. Welles to Chase, Apr. 21, 1863, _O.R.N._, 17, p. 417.
+
+74. _Idem._ to Seward, May 22, 1863, _ibid._, p. 446.
+
+75. Quintero to Lubbock, Dec. 2, 1861, _Gov. Lubbock Ltrs._, Oct. 14 and
+Dec. 2, 11, 15, 1861, MSS. Texas State Archives.
+
+76. W. S. Oldham, _Memoirs, 1861-1865_, pp. 353-54. Typed copy in The
+University of Texas Archives, Frederic S. Hill, _Twenty Years at Sea_
+(New York: Houghton Mifflin Co., 1893), pp. 191-92. Frank L. Owsley,
+_King Cotton Diplomacy_ (Chicago: The University of Chicago Press,
+1931), pp. 278-79.
+
+77. William Watson, _The Adventures of a Blockade Runner_ (London: T.
+Fisher Unwin, 1892), pp. 64-65, 79.
+
+78. Magruder to Gorgas, May 30, 1863, _O.R._, 26, pt. 2, pp. 24-25.
+
+79. Frank Brown, _Annals of Travis County and the City of Austin_, Chap.
+XXIII, pp. 3-4. Typed copy in the Texas State Archives. Report of
+Military Board, Mar., 1865 in Edmund T. Miller, _A Financial History of
+Texas_ (Bulletin of the University of Texas, 1916: No. 37), p. 138. Don
+H. Biggers, _German Pioneers in Texas_ (Fredericksburg, Texas: Press of
+the Fredericksburg Publishing Co., 1925), pp. 98-99. Roach, _Cherokee
+County_, pp. 66-67. Dabney White [ed.], _East Texas, Its History and Its
+Makers_ (New York: Lewis Historical Pub. Co., 1940), II, p. 871; III, p.
+1248. Richard D. Steuart, “The Story of the Confederate Colt” in _Army
+Ordinance_, XV, No. 86, Sept.-Oct., 1934, p. 90.
+
+80. Richard Taylor, _Destruction and Reconstruction_, Richard B. Harwell
+[ed.] (New York: Longmans, Green and Co., 1955), pp. 143 ff. Joseph B.
+James, “Edmund Kirby Smith: Soldier of the South.” Unpublished M.A.
+thesis, University of Florida, 1935, pp. 258-59.
+
+81. Lt. Col. A. J. Fremantle, _The Fremantle Diary_. Walter Lord [ed.]
+(Boston: Little, Brown and Co., 1954), pp. 64-65.
+
+82. _Ibid._, p. 58.
+
+83. Lubbock to Harris, June 17, 1863, Executive Record Book. Governor F.
+R. Lubbock, 1861-1863, No. 82, MSS, pp. 112-13. Texas State Archives.
+
+84. Oldham, _Memoirs_, p. 371.
+
+85. Report of Marshall Conference, Aug. 15, 1863, Executive Record Book
+No. 82, pp. 129-37. Governors to the People, Aug. 18, 1863, _ibid._, pp.
+137-39.
+
+86. Halleck to Banks, Aug. 6, 1863, _O.R._, 26, pt. 1, p. 672. _Idem._
+to _idem._, Aug. 10, 1863, _ibid._, p. 673. Lincoln to Banks, Aug. 5,
+1863 in John G. Nicolay and John Hay, _Complete Works of Abraham
+Lincoln_ (New York: The Lamb Publishing Company, 1894), IX, p. 56.
+_Idem._ to Grant, Aug. 9, 1863, ibid., pp. 64-65.
+
+87. Francis R. Sackett, _Dick Dowling_ (Houston: Gulf Publishing Co.,
+1937), pp. 16-47. Porter, _Naval History_, pp. 346-47. Report of
+Magruder, Sept. 10, 1863, _O.R.N._, 20, pp. 560-61. Andrew Forest Muir,
+“Dick Dowling and the Battle of Sabine Pass” in _Civil War History_, IV,
+No. 4, Dec., 1958, pp. 414 ff.
+
+88. Kirby Smith to Davis, Nov. 13, 1863, _O.R._, 26, pt. 2, pp. 410-11.
+
+89. Dana to Stone, Dec. 24, 1863, _ibid._, pt. 1, pp. 876-78.
+
+90. Banks to Halleck, Dec. 12, 1863, _ibid._, p. 847.
+
+91. Col. H. L. Landers, “Wet Sand and Cotton” in _The Louisiana
+Historical Quarterly_, XIX, No. 1, Jan., 1936, pp. 159-62.
+
+92. James T. DeShields, _They Sat in High Place_ (San Antonio: The
+Naylor Co., 1940), pp. 241-49.
+
+93. Lubbock to McCulloch, Sept. 2, 1863, Executive Record Book, No. 82.
+pp. 147-48. Certificate by Murrah, Aug. 6, 1864, Executive Record Book,
+Gov. Pendleton Murrah 1863-1865, No. 280 [_sic_], MSS, p. 140. Texas
+State Archives, James K. Greer, _Bois d’Arc to Barb’d Wire Ken Cary:
+Southwest Frontier Born_ (Dallas: Dealy and Lowe, 1936), pp. 249 ff.
+
+94. Henry C. Williams, _The Indian Raid in Young County, Texas October
+13, 1864_. Typed copy in The University of Texas Archives.
+
+95. General Order No. 1, Dec. 13, 1864, Gov. P. Murrah, Ltrs.,
+July-Dec., 1864 and undated, 1864, MSS, Texas State Archives.
+
+96. James K. Greer [ed.], _A Texas Ranger and Frontiersman. The Days of
+Buck Barry in Texas 1845-1906_. (Dallas: The Southwest Press, 1932), pp.
+180-181.
+
+97. James, “Edmund Kirby Smith”, pp. 284-85.
+
+98. Kirby Smith to Murrah, Mar. 31, 1864, Gov. P. Murrah Ltrs., Mar.,
+1864, MSS. Texas State Archives.
+
+99. General Order No. 57, July 23, 1864, _O.R._, 41, pt. 2, p. 1021.
+General Order No. 15, July 10, 1864, _ibid._, pp. 1002-04. Magruder to
+Murrah, Mar. 14, 1864, Gov. P. Murrah Ltrs., Mar., 1864.
+
+100. Kirby Smith to Price, Aug. 11, 1864, _O.R._, 34, pt. 3. p. 759.
+Taylor to Boggs, _ibid._, pt. 1, p. 528. Drake to Irwin, Apr. 11, 1864,
+_ibid._, pt. 3, pp. 127-28.
+
+101. Yeary, _Reminiscences_, p. 448.
+
+102. _Ibid._, p. 627.
+
+103. James G. Wilson, “The Red River Dam” in _Galaxy_, I, June 1, 1866,
+pp. 241-45.
+
+104. Kirby Smith to Cooper, Apr. 14, 1864, _O.R._, 34, pt. 3, pp.
+764-65. _Idem._ to Bragg, Aug. 3, 1864 in collection of the papers of
+Edmund Kirby Smith, folder No. 45, The University of Texas Library.
+Taylor to Buckner, Aug. 18, 1864, _ibid._
+
+105. E. T. Miller, “The State Finances of Texas During the Civil War” in
+_The Quarterly of the Texas State Historical Association_, XIV, No. 1,
+July, 1910, pp. 12-13.
+
+106. Commission by Murrah, Jan. 13, 1864, Executive Record Book, No. 280
+[_sic_], p. 58.
+
+107. Charles W. Ramsdell, “The Texas State Military Board” in _The
+Southwestern Historical Quarterly_, XXVII, No. 4, Apr., 1924, pp.
+269-71.
+
+108. Boggs to Magruder, Mar. 22, 1864, _O.R._, 34, pt. 2, p. 1074.
+Magruder to Bates, Apr. 22, 1864, _ibid._, pt. 3, pp. 784-85.
+Impressment schedule, Jan. 1, 1864, _ibid._, pt. 2, pp. 811-14.
+
+109. R. H. Williams, _With the Border Ruffians, Memoirs of the Far West
+1852-1868_. E. W. Williams, [ed.] (London: John Murray, 1907), p. 286.
+Eliza McHattan-Ripley, _From Flag to Flag_ (New York: D. Appleton and
+Co., 1889), p. 102.
+
+110. _Ibid._, pp. 97-100.
+
+111. Heartsill, _1491 Days_, pp. 202-03.
+
+112. D. H. Hamilton, _History of Company M. First Texas Volunteer
+Infantry_ (n.p., n.p., 1925), pp. 32 ff. John C. West, _A Texan in
+Search of a Fight_ (Waco: J. S. Hill & Co., 1901), p. 109.
+
+113. Mrs. A. V. Winkler, “Hood’s Texas Brigade” in Wooten, _A
+Comprehensive History of Texas_, II, pp. 672-80. Hamilton, _Company M_,
+_passim_.
+
+114. Report to Granbury, _O.R._, 31, pt. 2, p. 774.
+
+115. Report of Cleburne, _ibid._, pp. 745-53. Report of Granbury,
+_ibid._, pp. 773-75.
+
+116. Richard O’Connor, _Hood; Cavalier General_ (New York:
+Prentice-Hall, Inc. 1949), pp. 226 ff. O. P. Bowser, “Notes on
+Granbury’s Brigade” in Wooten, _A Comprehensive History of Texas_, II,
+pp. 751-53.
+
+117. _Ibid._, pp. 753-54.
+
+118. “Texas and Texans in the Civil War” in _ibid._, pp. 619-27. Report
+of Ross, _O.R._, 45, pt. 1, pp. 767-73.
+
+119. Terrell, “Terry’s Texas Rangers” in Wooten, _A Comprehensive
+History of Texas_, II, pp. 689-94. J. K. P. Blackburn, _Reminiscences of
+the Terry Rangers_ (Austin: n.p., 1919), pp. 71-74.
+
+120. Henderson, _Texas in the Confederacy_, p. xi.
+
+121. Wooten, _A Comprehensive History of Texas_, II, p. 571. Lester N.
+Fitzhugh [compiled by], _Texas Batteries, Battalions, Regiments,
+Commanders and Field Officers Confederate States Army 1861-1865_
+(Midlothian, Texas: Mirror Press, 1959).
+
+122. Dolan to Hurlbut, Apr. 3, 1865, _O.R._, 48, pt. 2, p. 17.
+
+123. General Order No. 10, Feb. 13, 1865, _ibid._, pt. 1, pp. 1385-86.
+
+124. James Ford Rhodes, _History of the United States From the
+Compromise of 1850_ (New York: The MacMillan Co., 1912-28), V, p. 378.
+
+125. General Order No. 32, Apr. 3, 1865, _O.R._, II, 8, p. 466. General
+Order No. 42, Apr. 27, 1865, _ibid._, 48, pt. 2, pp. 1287-88.
+
+126. Proclamation to the People of Texas, Apr. 27, 1865, Executive
+Record Book, No. 280, [_sic_], pp. 12-13.
+
+127. Report of Bell, _O.R._, 48, pt. 2, pp. 398-403. Magruder to Boggs,
+Apr. 29, 1865 quoted in A. B. Booth, “Louisiana Confederate Military
+Records” in _Louisiana Historical Quarterly_, IV, No. 3, July, 1921, p.
+371.
+
+128. Yeary, _Reminiscences_, pp. 44, 217. Frank C. Pierce, _A Brief
+History of the Rio Grande Valley_ (Menasha, Wisconsin: George Banta
+Publishing Co., 1917), pp. 52-54. Florence J. Scott, _Old Rough and
+Ready on the Rio Grande_ (San Antonio: The Naylor Company, 1935), p.
+113.
+
+129. After these negotiations were concluded, Kirby Smith, Murrah, and a
+number of other leaders left for Mexico.
+
+130. _Tri-Weekly Telegraph_ (Houston), June 20, 1865.
+
+131. Sheridan to Rawlins, Nov. 14, 1866, _O.R._, 48, pt. 1, pp. 297-303.
+William A. Ganoe, _The History of the United States Army_ (New York: D.
+Appleton and Co., 1924), p. 299.
+
+
+
+
+                              BIBLIOGRAPHY
+
+
+These are selected richer sources of the hundreds of books and documents
+pertaining to Texas and the Civil War.
+
+
+                              MANUSCRIPTS
+
+_Executive Record Books_ and _Governor’s Letters_ (both in Texas State
+Archives) contain extensive correspondence and records relating to the
+problems of managing the state during the war.
+
+
+                    REPRODUCED COPIES OF MANUSCRIPTS
+
+_Collection of the Papers of Edmund Kirby Smith._ Folder No. 37-53
+(1863-1866). Microfilm in Texas Collection, The University of Texas
+Library, original at University of North Carolina. Selected military
+problems of the departmental commander.
+
+Oldham, W. S., _Memoirs, 1861-1867_. The University of Texas Archives.
+Rich comments by Texas’ crusty Confederate Senator.
+
+
+                            PUBLIC DOCUMENTS
+
+_Eighth Census of the United States._ Government Printing Office,
+Washington, 1864. Statistics of 1860 Texas.
+
+_Journal of the Secession Convention of Texas 1861._ Edited by Ernest W.
+Winkler. Austin Printing Co., Austin, 1912. Documentary coverage of the
+convention’s work.
+
+_Official Records of the Union and Confederate Navies in the War of the
+Rebellion._ Government Printing Office, Washington, 1912.
+
+_The War of Rebellion: A Compilation of the Official Records of the
+Union and Confederate Armies._ Government Printing Office, Washington,
+1880-1901. Specific parts on Texas are: Series I, Vols. 1, 4, 9, 15, 26,
+34, 41, and 48; Series II, Vol. 1.
+
+
+                         OTHER PRIMARY SOURCES
+
+Barron, S. B., _The Lone Star Defenders, A Chronicle of the Third Texas
+Cavalry, Ross’ Brigade_. The Neale Publishing Co., New York, 1908.
+
+Blessington, Joseph P., _The Campaigns of Walker’s Texas Division_.
+Lange, Little & Co., New York, 1875.
+
+DeBray, X. B., _A Sketch of the History of DeBray’s (26th) Regiment of
+Texas Cavalry_. Von Boeckmann, Austin, 1884.
+
+Heartsill, W. W., _Fourteen Hundred and 91 Days in the Confederate
+Army_. Edited by Bell I. Wiley. McCowat-Mercer Press, Jackson, Tenn.,
+1954.
+
+McConnell, Joseph C., _The West Texas Frontier_. Gazette Printing
+Company, Jacksboro, Texas.
+
+McHatton-Ripley, Eliza, _From Flag to Flag_. D. Appleton and Co., New
+York, 1889.
+
+Newcomb, J. P., _Sketch of Secession Times in Texas_. San Francisco,
+1863.
+
+Noel, Theodore, _A Campaign from Santa Fe to the Mississippi: Being a
+History of the Old Sibley Brigade_. Shreveport News Printing
+Establishment, Shreveport, 1865.
+
+North, Thomas, _Five Years in Texas; or What You Did Not Hear During the
+War from January 1861 to January 1866_. Elm Street Printing Co.,
+Cincinnati, 1871.
+
+Raines, C. W. [ed.], _Six Decades in Texas or Memoirs of Francis Richard
+Lubbock_. Ben C. Jones & Co., Austin, 1900.
+
+_Texas Almanac_ (for the years 1859 through 1865.) Richardson & Co.
+
+
+                           SECONDARY SOURCES
+
+Bancroft, Hubert Howe, _History of the North Mexican States and Texas_.
+Vol. XVI of _The Works of Hubert Howe Bancroft_. The History Co., San
+Francisco, 1889.
+
+Blackburn, J. K. P., _Reminiscences of the Terry Rangers_. Austin, 1919.
+
+Dyer, John P., _The Gallant Hood_. The Bobbs-Merrill Company, New York,
+1950.
+
+Friend, Llerena, _Sam Houston The Great Designer_. The University of
+Texas Press, Austin, 1954.
+
+Giles, L. B., _Terry’s Texas Rangers_. Copyright 1911.
+
+Hamilton, D. H., _History of Company M First Texas Volunteer Infantry_,
+1925.
+
+Henderson, Harry McCorry, _Texas in the Confederacy_. The Naylor
+Company, San Antonio, 1955.
+
+James, Joseph B., “Edmund Kirby Smith: Soldier of the South.”
+Unpublished M.A. thesis, University of Florida, 1935.
+
+Loughery, Mrs. E. M., _War and Reconstruction Times in Texas,
+1861-1865_. Von Boeckmann-Jones Co., Austin, 1914.
+
+Miller, Edmund T., _A Financial History of Texas_. Bulletin of the
+University of Texas, 1916: No. 37, July 1, 1916.
+
+Owsley, Frank L., _King Cotton Diplomacy_. The University of Chicago
+Press, Chicago, 1931.
+
+Parks, Joseph H., _General Edmund Kirby Smith, C.S.A._ Louisiana State
+University Press, Baton Rouge, 1954.
+
+Pierce, Frank C., _A Brief History of the Lower Rio Grande Valley_. Geo.
+Banta Publishing Co., Menasha, Wisconsin, 1917.
+
+Ramsdell, Charles W., _Reconstruction in Texas_. Columbia University,
+New York, 1910.
+
+Rippy, J. Fred, _The United States and Mexico._ F. S. Crofts & Co., New
+York, 1931.
+
+Roberts, O. M., _Texas_. Vol. XI of _Confederate Military History_.
+Edited by Gen. Clement A. Evans. Confederate Publishing Company,
+Atlanta, 1899. A half-volume survey of Texas in the war.
+
+Rose, Victor M., _Ross’ Texas Brigade_. The Courier-Journal Company,
+Louisville, 1881.
+
+Smith, Ralph J., _Reminiscences of the Civil War_. San Marcos, 1911.
+
+Wooten, Dudley, _A Comprehensive History of Texas 1685 to 1897_. William
+G. Scarff, Dallas, 1898.
+
+Wright, Marcus J., _Texas in the War, 1861-1865_. Typed copy in Texas
+State Archives.
+
+Yeary, Mamie, Compiled by, _Reminiscenses of the Boys in Gray
+1861-1865_. Smith and Lamar, Dallas, 1912.
+
+
+                               NEWSPAPERS
+
+Several dozen different newspapers are available covering the period. A
+general guide to their existence and location is the rather outdated
+_Texas Newspapers 1813-1939_. Prepared by Historical Records Survey
+Program Division of Professional and Survey Projects. W. P. A. of Texas,
+San Jacinto Museum of History Association, Houston, 1941. Of particular
+value are:
+
+_The Galveston Tri-Weekly News_—Texas State Archives and The University
+of Texas Library.
+
+_The Southern Intelligencer_ (Austin)—Texas State Archives and The
+University of Texas Library.
+
+_The Tri-Weekly Telegraph_ (Houston)—The University of Texas Library.
+
+
+                                ARTICLES
+
+Selections from _The Southwestern Historical Quarterly_ (earlier _The
+Quarterly of the Texas State Historical Association_) are helpful in
+fitting missing pieces into the picture. Of particular value are:
+
+Bridge, C. A., “The Knights of the Golden Circle”, LIV, No. 3, pp.
+287-302.
+
+Crimmins, Col. M. L., “An Episode in the Career of General David E.
+Twiggs”, XLI, No. 2, pp. 167-73.
+
+Delaney, Robert W., “Matamoros, Fort for Texas during the Civil War”,
+LVIII, No. 4, pp. 473-87.
+
+Elliott, Claude, “Union Sentiment in Texas 1861-1865”, L, No. 4, pp.
+449-77.
+
+Maher, Edward R., Jr., “Sam Houston and Secession”, LV, No. 4, pp.
+448-58.
+
+Ramsdell, Charles W., “The Texas State Military Board”, XXVII, No. 4,
+pp. 253-75.
+
+Sandbo, Anna I., “Beginnings of the Secession Movement in Texas”, XVIII,
+No. 1, pp. 41-73; No. 2, pp. 162-94.
+
+Valuable articles are also to be found in such journals as:
+
+  _Journal of Southern History_
+  _Mississippi Valley Historical Review_
+  _Southern Historical Society Papers_
+  _Southwest Review_
+  _West Texas Historical Association Year Book_
+
+
+
+
+                               CHRONOLOGY
+
+
+                       EVENTS IN TEXAS, 1861-1865
+
+                                   1861
+ January
+
+     5  Destruction of the printing office of _Die Union_ in Galveston
+        by mob.
+    21  Convening of the State Legislature in Austin in compliance with
+        Governor Houston’s proclamation of December 17, 1860.
+    28  Approval of the State Legislature of a joint resolution
+        authorizing the impending state convention to act for the people
+        of Texas on the question of secession.
+        Holding a Secession Convention in Austin by request of prominent
+        citizens (O. M. Roberts, George Flournoy, Guy M. Bryan, W. S.
+        Oldham and John Marshall) made on December 3, 1860.
+    30  Appointment of a Committee of Public Safety by the Secession
+        Convention.
+
+ February
+
+     1  Approval of an ordinance of secession by the Secession
+        Convention.
+     2  Committee of Public Safety directed to seize all Federal
+        property in Texas.
+     4  Adjournment of the Secession Convention until March 2.
+     6  Address to the people of Texas by the opponents of secession (D.
+        G. Burnett, E. M. Pease, E. J. Davis, A. J. Hamilton, J. W.
+        Throckmorton, John and George Hancock).
+     9  Proclamation by Governor Houston ordering an election to be held
+        February 23 for ratifying or rejecting the Ordinance of
+        Secession.
+        Adjournment of the Called Session of the Legislature until March
+        18.
+    16  Seizure of the U.S. Army Military Post, San Antonio, by
+        representatives and forces under orders of the Committee of
+        Safety.
+    18  Surrender of U.S. Military posts in Texas by General David E.
+        Twiggs.
+    19  Substitution of Colonel Carlos A. Waite for General Twiggs as
+        U.S. Army Commander, Department of Texas.
+    21  Seizure of U.S. property at Brazos Santiago by Colonel “Rip”
+        Ford’s Volunteers upon orders of the Committee of Safety.
+    21  Abandonment of Camp Cooper, Throckmorton County, by U.S. troops.
+    23  State election for ratifying or rejecting the Ordinance of
+        Secession.
+    26  Abandonment of Camp Colorado, Coleman County, by U.S. troops.
+
+ March
+
+     1  Dismissal of General Twiggs from U.S. Army service.
+     2  Reassembly of the Secession Convention in Austin.
+        Seizure of U.S. revenU.S.hooner _Henry Dodge_ by armed forces
+        acting under orders of the Committee of Safety.
+     4  Votes canvassed on secession ordinance: for secession, 46,129;
+        against, 14,697.
+     7  Abandonment of Ringgold Barracks, Starr County, and Camp Verde,
+        Kerr County, by U.S. troops.
+    12  Abandonment of Camp McIntosh, Webb County, by U.S. troops.
+    15  Abandonment of Camp Wood, Real County, by U.S. troops.
+    16  Administering the Confederate oath of office to state officials
+        in the presence of the Secession Convention; Governor Houston
+        refused to take the oath.
+    17  Abandonment of Camp Hudson. Val Verde County, by U.S. troops.
+    19  Abandonment of Forts Clark, Kinney County; Inge, Uvalde County;
+        and Lancaster, Crockett County, by U.S. troops.
+        Governor Sam Houston’s farewell address published in newspapers.
+    20  Abandonment of Fort Brown, Cameron County, and Fort Duncan,
+        Maverick County, by U.S. troops.
+    23  Abandonment of Fort Chadbourne, Coke County, by U.S. troops.
+        Ratification of the permanent Constitution of the Confederate
+        States by the Secession Convention.
+    25  Adjournment of the Secession Convention.
+    29  Abandonment of Fort Mason, Mason County, by U.S. troops.
+    31  Abandonment of Fort Bliss, El Paso County, by U.S. troops.
+
+ April
+
+     5  Abandonment of Fort Quitman, Hudspeth County, by U.S. troops.
+     9  Adjournment of the called session of the legislature.
+    11  Arrival in New York of Federal troops from Texas aboard _U.S.S.
+        Coatzacoalcos_.
+    12  Fort Sumter fired upon.
+    13  Abandonment of Fort Davis, Jeff Davis County, by U.S. troops.
+    17  Texas Volunteers under Colonel Earl Van Dorn, C.S.A., capture
+        _Star Of The West_ off Texas coast near Indianola.
+    20  Seizure of U.S. Coast Guard schooner _Twilight_ by W. A. Jones,
+        Deputy Custom Collector, Aransas, Texas.
+    21  Assumption of Military Command of Texas by Colonel Earl Van
+        Doren, C.S.A.
+    23  U.S. Army officers at San Antonio made prisoners of war; capture
+        of 8th U.S. Infantry near San Antonio.
+    25  Surrender of U.S. forces at Indianola.
+        Abandonment of Fort Stockton, Pecos County, by U.S. troops.
+
+ May
+
+     9  Capture of U.S. troops near San Lucas Springs or Adams Hill,
+        fifteen miles west of San Antonio.
+     5  Capture of Forts Arbuckle, Cobb and Washita, Indian Territory,
+        by Texas state troops commanded by Colonel W. C. Young.
+ 13-14  Burning of the _Alamo Express office_, San Antonio by the
+        Knights of the Golden Circle
+
+ June
+
+     ?  Organization in Virginia of the First Texas Infantry Regiment.
+    13  Organization of the Third Regiment, Texas Cavalry.
+
+ July
+
+     2  Blockading of Galveston initiated by the _U.S.S. South Carolina_.
+  4-12  Destruction and capture of twelve vessels off Galveston by the
+        _U.S.S. South Carolina_.
+        Taking the Oath of Allegiance to the State of Texas and the
+        Confederacy by Live Oak County residents at a mass meeting in
+        Oakville.
+     8  Ordering of Brigadier General H. H. Sibley of Texas to expel
+        U.S. forces from New Mexico.
+    27  Fort Filmore near Mesilla, New Mexico, captured by Second
+        Regiment Texas Mounted Rifles under Lieutenant Colonel John R.
+        Baylor, C.S.A.
+
+ August
+
+     ?  Skirmishing near Fort Bliss; preparation of Confederate forces
+        for the invasion of New Mexico.
+     3  Bombardment of Confederate batteries at Galveston by _U.S.S.
+        South Carolina_.
+    11  Ambushing of Lieutenant May’s detachment of fourteen men,
+        Company D, Second Regiment Texas Mounted Rifles, in a fight with
+        Apaches near Fort Bliss.
+    14  Appointment of General Paul O. Hébert, Commander of all
+        Confederate troops in Texas.
+
+ September
+
+     6  Mustering of the Sixth Regiment of Texas Cavalry into service at
+        Camp Bartow, Dallas County.
+     7  Capturing of the _Solidad Cos_ off Galveston. Its cargo was
+        coffee.
+     9  Mustering into service Terry’s Texas Rangers at Houston.
+    18  Transferring the command of Confederate troops in Texas from
+        General Van Dorn to General Hébert.
+
+ October
+
+  1-20  Discovery of a secret organization in Cooke and adjacent
+        counties to overthrow the Confederate state Government resulting
+        in numerous hangings in and near Gainesville.
+     2  Organization of the Ninth Texas Cavalry at Brogden Springs,
+        twelve miles north of Sherman.
+     3  Capturing of the _Reindeer_ off San Luis Pass by the _U.S.S. Sam
+        Houston_.
+   5-8  Evacuation of Galveston during a four day truce.
+ 11-16  Military Operations from Fort Inge, Uvalde County, against
+        Indians led by Sergeant W. Barrett and Company D, Second
+        Regiment Texas Mounted Rifles.
+    22  Sibley’s Brigade leaves San Antonio for the invasion of New
+        Mexico.
+    27  Capturing of the brig _Delta_ off Galveston by the _U.S.S.
+        Santee_.
+
+ November
+
+     1  Skirmishing between Indians and a scouting party of the First
+        Texas Regiment Mounted Rifles near Pease River.
+     7  Francis R. Lubbock inaugurated governor.
+     8  Capture of the _Royal Yacht_ by Federal sailors in Bolivar
+        Channel.
+    12  Organization of the First, Fourth and Fifth Texas Infantry
+        Regiments and the Eighteenth Georgia Regiment into a brigade.
+
+ December
+
+     7  Suspension by Texas Legislature of all law providing for the
+        collection of certain debts and liabilities on bonds, promissory
+        notes, bills of exchange and contracts for money payments until
+        January 1, 1864, or six months after the end of the war, except
+        for those applying to enemy aliens.
+    30  Capturing of the schooner _Gasonne_ off Galveston.
+
+                                   1862
+ January
+
+     6  Permission by the State Legislature to Anderson County allowing
+        the levying and collection of taxes sufficient to pay for 128
+        Morse Rifles.
+        Legislative appropriation of $5,000 to pay the cost of
+        transporting all clothing or other contributions to Texans in
+        the Confederate service.
+     8  Legislative provision for a Hospital Fund of $150,000 to care
+        for the sick and wounded Texas Soldiers.
+    11  Legislation creating a State Military Board with authority to
+        buy arms and munitions, to manufacture arms and munitions and
+        establish foundries for the manufacture of ordinance and arms.
+    13  Legislative authorization of County Patrols.
+    14  Legislative appropriation of $1,000,000 for military purposes.
+
+ February
+
+ 11-13  Policing of Aransas Bay by Federal Navy.
+    21  Defeat by General H. H. Sibley’s Brigade of the Federal forces
+        at Val Verde and the capture of Albuquerque and Santa Fe.
+    22  Attack on Aransas Pass by U.S. Navy.
+
+ March
+
+    25  Organization of Sixteenth Texas Volunteer Infantry Regiment at
+        Camp Groce near Hempstead, Texas.
+    28  Defeat of General H. H. Sibley’s Brigade at Glorietta, N. M.;
+        return of troops to Texas and collapse of John R. Baylor’s
+        Confederate government in the Arizona Territory.
+
+ April
+
+     5  Patroling by the U.S. Navy in San Luis Pass, Galveston Island.
+     ?  Organizing and enlisting of the Thirty-First Texas Cavalry for
+        the duration of the war.
+    16  Enactment of the first Confederate conscription law.
+    22  Capture of U.S. Navy launches off Aransas Pass.
+    25  Capture of U.S. Troops at Saluria (Matagorda Island).
+        Surrender of U.S. forces at Indianola.
+
+ May
+
+ 14-15  U.S. Navy demonstrations at Galveston.
+    26  Creation of the Trans-Mississippi Military Department of the
+        Confederacy.
+    30  Declaration of martial law in Texas.
+
+ July
+
+     4  Attack on U.S. vessels at Velasco.
+  7-17  Increased Patrol activity by U.S. Navy in San Luis Pass.
+
+ August
+
+     ?  Burning of Fort Bliss by retreating units of Sibley’s Regiment;
+        reoccupation of reservation by Federals.
+    10  Skirmishing at Nueces River, near Fort Clark, Texas, between
+        Unionists and Confederates.
+    11  Action by U.S. Navy at Velasco.
+    12  Capture of the _Breaker_ and the destruction of the _Hannah_ at
+        Corpus Christi.
+ 16-18  Bombardment of Corpus Christi by U.S. Navy.
+    20  Placing Texas and Arizona Territory in the Trans-Mississippi
+        Military Department.
+
+ September
+
+     2  Enactment of new Confederate conscription law raising the age
+        limit to include all males from 18 to 45; repeal of martial law
+        in Texas.
+ 13-14  Operations at Flour Bluff, near Corpus Christi.
+    24  U.S. Navy bombards and captures Sabine Pass.
+    26  U.S. Navy captured Sabine City.
+    27  U.S. Navy attempts to burn railroad bridge across Taylor’s Bayou
+        in Jefferson County.
+
+ October
+
+     2  Burning of the railroad depot at Beaumont.
+     5  Capture of Galveston by U.S. forces.
+    10  Arrival of General J. B. Magruder to command Confederate forces
+        in Texas.
+    29  Confederate troops attack U.S. Steamer _Dan_ at Sabine City.
+    31  Bombardment of Lavaca by U.S. Naval forces.
+
+ November
+
+    14  Naming of A. J. Hamilton Federal Military Governor of Texas.
+    20  U.S. Naval action near Matagorda.
+    29  General J. B. Magruder assumes command of District of Texas, New
+        Mexico and Arizona with headquarters in Houston.
+
+ December
+
+    12  Naval action against Confederate installation on Padre Island.
+    24  Occupation of Galveston by Federal forces.
+
+                                   1863
+ January
+
+     1  Confederate use of a combined land and water attack to capture
+        Galveston as well as the _Harriett Lane_ and to destroy the
+        _Westfield_.
+    11  Naval engagement near Galveston between the Federal _Hatteras_
+        and the Confederate _Alabama_.
+    31  Confederate gunboats _Josia Bell_ and _Uncle Ben_ capture Union
+        warships _Morning Light_ and _Velocity_ off Sabine Pass.
+
+ March
+
+     5  Legislative addition of $200,000 to the Hospital Fund;
+        appropriation of $600,000 for distribution among needy members
+        of soldier’s families and doubling of state tax rate.
+
+ April
+
+    18  U.S. Navy paid a call on Sabine Pass, resulting in capture of
+        landing party.
+
+ May
+
+     3  U.S. Navy landing party upon Joseph Island attacked and repulsed.
+    22  Capture of the schooner _Stingaree_ on the Brazos River.
+    30  U.S. Navy attack at Port Isabel.
+
+ August
+
+ 10-13  Mutiny at Galveston.
+
+ September
+
+     8  Repulse of General Bank’s expedition at Sabine Pass by
+        Lieutenant Dick Dowling’s men.
+
+ November
+
+   2-6  Occupation of Brazos Island and Brownsville, result of Federal
+        combined army and navy action.
+     5  Pendleton Murrah inaugurated Governor.
+    17  Capture of Confederate battery at Aransas Pass.
+    22  Skirmishing in Cedar Bayou, Matagorda County.
+    25  U.S. Navy attack on and capture of Fort Esperanza, Matagorda
+        Island.
+
+ December
+
+     1  A. J. Hamilton arrives at Brownsville and attempts to exercise
+        authority as Military Governor of Texas.
+    10  Legislative authorization for the Governor to sell $2,000,000 of
+        cotton bonds.
+    15  Enactment of law defining “sedition” and “disloyalty” and
+        setting the punishment upon conviction before a jury.
+        Legislative appropriation of $200,000 for the Hospital Fund.
+        Legislative appropriation of $1,000,000 to be spent in the next
+        biennium for support and maintenance of families of Texas
+        officers and soldiers.
+    16  Appropriation of $1,000,000 in Confederate State Treasury notes
+        to be expended for the defense of the state’s western frontier,
+        1864 and 1865. Severe Indian raids in Montague and Cooke
+        counties.
+    23  Indianola occupied by a Federal Brigade.
+    29  Skirmishing of Confederates and Federals on Matagorda Bay;
+        attack of U.S. Navy on Cavallo Pass.
+
+                                   1864
+ January
+
+     3  Major General Francis J. Herron assumed command of Federal
+        forces on the Rio Grande.
+     8  Naval action at entrance of Caney Creek, Matagorda County.
+ 21-25  Reconnaissance on Matagorda Peninsula.
+
+ February
+
+    11  Bombardment and destruction of the town of Lamar, Aransas
+        County, by the Federal Navy.
+    17  Changing of conscription law to include ages 17 to 50 and to
+        make exemptions from service subject to approval of President
+        Davis.
+    23  Naval fighting near Indianola.
+
+ March
+
+    12  Evacuating Fort McIntosh by the Confederates.
+    13  Skirmishing at Los Patricios or San Patricio by Federal and
+        Confederate troops.
+    16  Skirmish at Santa Rosa, Cameron County, by Federal and
+        Confederate troops.
+    17  Attack on Corpus Christi by Confederates.
+    19  Federal attack on Laredo.
+    21  Attack at Velasco by Union blockading ship.
+    22  Defeat of Federals under E. J. Davis near Laredo.
+        Affair at Corpus Christi.
+
+ April
+
+ 12-13  U.S. Navy expedition up Matagorda Bay.
+
+ June
+
+    15  Evacuation of U.S. held Cavallo Pass.
+    19  Skirmishing at Eagle Pass.
+    26  Skirmishing at Los Rucias, 24 miles from Brownsville.
+
+ July
+
+     7  Expedition into Galveston Bay by ships of the U.S. Navy.
+    30  Reoccupation of Brownsville by Confederate forces.
+
+ August
+
+  4-15  Military operations off Brazos Santiago Island by Federal Forces.
+    17  General J. B. Magruder transferred to District of Arkansas and
+        Major General John G. Walker assumed command in Texas.
+    19  Skirmishing at Port Isabel.
+
+ September
+
+     6  Skirmishing at Palmetto Ranch near Brazos Santiago.
+
+ October
+
+ 13-20  Indian engagement on Elm Creek near Fort Belknap, Young County,
+        on the 13th; operations against the Indians until 20th.
+    14  Skirmishing of Federals and Confederates at Boca Chica Pass,
+        near Brownsville.
+
+ November
+
+    12  Passage of a joint resolution by the Legislature expressing an
+        unfavorable attitude toward agitation for a reunion of the
+        states by rewriting the constitution so as to include guarantees
+        favorable to the Confederate states.
+    15  Legislative appropriation for the annual use of 600,000 yards of
+        cloth and excess thread manufactured by the state penitentiary
+        to be distributed to indigent families and dependents of Texas
+        soldiers; distribution to be the task of the county courts.
+
+ December
+
+ 15-20  Raiding by Indians from Oklahoma in Montague and other North
+        Texas counties.
+
+                                   1865
+ January
+
+     8  Texas troops defeated in Dove Creek Indian Fight, 16 miles south
+        of San Angelo.
+
+ February
+
+    10  Creation of the Military Department of the Gulf, to include
+        Texas and Louisiana by the U.S. Government.
+
+ March
+
+    31  Replacing of General John G. Walker by General J. B. Magruder as
+        Commander of the District of Texas, New Mexico and Arizona.
+
+ April 19 to May 17
+
+        Negotiations for Confederate surrender in Trans-Mississippi.
+
+ May
+
+ 11-14  Federal expedition from Brazos Santiago Island; skirmishing and
+        fighting on 12th and 13th at Palmetto and White’s ranch, last
+        fighting of the war.
+    25  Alerting of the 25th U.S. Army Corps for duty in Texas.
+    29  Assumption of command by General Phil H. Sheridan, U.S.A., of
+        the Military Division of the Southwest.
+
+ June
+
+     2  Surrender of the Trans-Mississippi Department, C.S.A., by
+        General Kirby Smith at Galveston.
+    17  Assumption of command of all U.S. troops in Texas by General
+        Gordon Granger.
+        Appointment of A. J. Hamilton provisional governor of Texas.
+    19  General Gordon Granger arrived in Galveston and issued order
+        freeing all slaves in Texas and Louisiana.
+    27  Assumption of command by General Phil H. Sheridan of the
+        Military Division of the Gulf.
+        Naming of General E. R. S. Canby as commander of the Department
+        of Louisiana and Texas.
+
+                  COVER DESIGN BY JAMES LEWIS WILKINS
+
+
+
+
+                          Transcriber’s Notes
+
+
+—Retained publication information from the printed edition: this eBook
+  is public-domain in the country of publication.
+
+—Silently corrected a few palpable typos.
+
+—In the text versions only, text in italics is delimited by
+  _underscores_.
+
+
+
+
+
+
+
+End of Project Gutenberg's Texas in the Civil War, by Allan C. Ashcroft
+
+*** END OF THIS PROJECT GUTENBERG EBOOK TEXAS IN THE CIVIL WAR ***
+
+***** This file should be named 56709-0.txt or 56709-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/6/7/0/56709/
+
+Produced by Stephen Hutcheson and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

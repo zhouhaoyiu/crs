@@ -1,0 +1,16 @@
+{
+  "id": "2485427",
+  "name": "Tik-Tok",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3262862",
+      "name": "心 爱心",
+      "font_class": "xin",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    }
+  ]
+}
