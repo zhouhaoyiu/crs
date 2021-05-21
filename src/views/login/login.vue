@@ -307,9 +307,9 @@ export default {
     };
   },
   mounted() {
-    // if (getCookie("username")) {
-    //   this.$router.push("/home");
-    // }
+    if (getCookie("username")) {
+      this.$router.push("/home");
+    }
   },
   methods: {
     //登录校验
@@ -317,15 +317,19 @@ export default {
       if (this.username == "" || this.password == "") {
         alert("请输入用户名或密码");
       } else {
+        //是否为管理员
+        let ifAdmin = this.username === "admin" && this.password === "lemon";
+        //调用突变方法
+        this.$store.commit("adminLogin", ifAdmin);
+
         let data = { username: this.username, password: this.password };
-        console.log(this.$http);
+
         this.$http
           .post(
             "https://8a5386e8-7013-4639-954f-f7bd1fc8986f.mock.pstmn.io/mockget",
             data
           )
           .then((res) => {
-            console.log(res);
             if (res.data == -1) {
               this.tishi = "该用户不存在";
               this.showTishi = true;
@@ -340,6 +344,7 @@ export default {
               });
               this.showTishi = true;
               setCookie("username", this.username, 1000 * 60);
+
               setTimeout(
                 function () {
                   this.$router.push({ path: "home", query: { id: 1 } });
@@ -365,7 +370,6 @@ export default {
       } else {
         let data = { username: this.newUsername, password: this.newPassword };
         this.$http.post("", data).then((res) => {
-          console.log(res);
           if (res.data == "ok") {
             this.tishi = "注册成功";
             this.showTishi = true;

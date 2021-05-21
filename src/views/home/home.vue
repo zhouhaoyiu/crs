@@ -47,6 +47,7 @@ export default {
       CTList: [],
     };
   },
+
   components: {
     sideBar,
   },
@@ -80,7 +81,6 @@ export default {
           params: { keyWord: this.keyWord },
         })
           .then((res) => {
-            console.log(res.data);
             if (res.data == -1) {
               console.log("不存在包含该关键字的文件!");
             } else {
@@ -98,7 +98,6 @@ export default {
             }
           })
           .catch((err) => {
-            // console.log(err);
             alert(err);
           });
       }
@@ -109,6 +108,7 @@ export default {
 <style>
 .home {
   background: #eee;
+  height: 100%;
 }
 .side-bar {
   position: fixed;
