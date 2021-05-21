@@ -88,8 +88,8 @@ export default {
 
     },
     mounted() {
-        this.showAddFilesBtn = this.$store.state.isAdmin
-       // this.showAddFilesBtn = this.$store.state.isAdmin == true ?  true:false
+        // this.showAddFilesBtn = this.$store.state.isAdmin
+       this.showAddFilesBtn = this.$store.state.isAdmin == 'true' ?  true:false
         console.log( this.showAddFilesBtn);
     },
     methods: {
