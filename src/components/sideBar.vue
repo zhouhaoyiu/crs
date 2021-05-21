@@ -90,7 +90,7 @@ export default {
     mounted() {
         // this.showAddFilesBtn = this.$store.state.isAdmin
        this.showAddFilesBtn = this.$store.state.isAdmin == 'true' ?  true:false
-        console.log( this.showAddFilesBtn);
+        console.log('sidebar mounted');
     },
     methods: {
 

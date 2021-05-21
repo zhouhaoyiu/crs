@@ -7,7 +7,7 @@ Vue.use(Vuex);
 export default new Vuex.Store({
   state: {
 
-    isAdmin: getCookie("ifAdmin") || null,
+    isAdmin: getCookie("ifAdmin"),
     isAdmin2: null || getCookie("ifAdmin")
   },
   mutations: {
